@@ -27,7 +27,7 @@ jobs:
 
       - name: Install MkDocs and Lantana
         run: |
-          pip install mkdocs-lantana-theme
+          pip install lantana
           # 他にプラグイン（git-authors等）を使っていればここに追加してね
 
       - name: Build and Deploy
