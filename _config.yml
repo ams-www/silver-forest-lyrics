@@ -1,0 +1,5 @@
+defaults:
+  - scope:
+      path: "" # すべてのファイルを対象にする
+    values:
+      layout: "default" # 自動で _layouts/default.html を使う
