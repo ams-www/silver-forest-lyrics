@@ -1,0 +1,16 @@
+---
+layout: default
+title: フォルダ・ページ一覧
+---
+
+# コンテンツ一覧
+
+サイト内のすべてのページを表示します。
+
+<ul>
+  {% for p in site.pages %}
+    {% if p.title %}
+      <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a> ({{ p.url }})</li>
+    {% endif %}
+  {% endfor %}
+</ul>
