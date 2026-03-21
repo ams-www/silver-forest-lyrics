@@ -63,7 +63,7 @@ GRAZE購入特典？の壁紙ダウンロードページに「ツンデレアリ
 ## ■バナーなど
 
 <TD width="200">
-	<img src="https://graze.tonosama.jp/image/youmu-s.jpg" border="0" alt="東方アレンジCD GRAZE ジャケット"></TD>
+	<img src="https://graze.tonosama.jp/image/youmu-s.jpg" border="0" alt="東方アレンジCD GRAZE ジャケット" referrerpolicy="no-referrer"></TD>
 <TD width="468" valign=bottom>
-	<img src="https://graze.tonosama.jp/image/youmu-200.jpg" border="0" alt="東方アレンジCD GRAZE バナー"><BR>
-	<img src="https://graze.tonosama.jp/image/youmu-468-3.jpg" border="0" alt="東方アレンジCD GRAZE バナー"></TD>
+	<img src="https://graze.tonosama.jp/image/youmu-200.jpg" border="0" alt="東方アレンジCD GRAZE バナー" referrerpolicy="no-referrer"><BR>
+	<img src="https://graze.tonosama.jp/image/youmu-468-3.jpg" border="0" alt="東方アレンジCD GRAZE バナー" referrerpolicy="no-referrer"></TD>
