@@ -5,16 +5,45 @@
     <title>{{ page.title }} | SilForFans</title>
     <style>
         /* 簡単な見た目の調整（自由に変えてね！） */
-        body { font-family: sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
-        nav { background: #f4f4f4; padding: 10px; margin-bottom: 20px; border-radius: 5px; }
-        nav a { margin-right: 15px; text-decoration: none; color: #007bff; font-weight: bold; }
-        nav a:hover { text-decoration: underline; }
-        footer { margin-top: 50px; font-size: 0.8em; color: #666; border-top: 1px solid #ccc; padding-top: 10px; }
+        <style>
+/* ヘッダー専用スタイル：他に影響しないように .site-header を親にする */
+.site-header {
+  font-family: sans-serif;
+  max-width: 800px; /* ヘッダー幅を制限したいなら残す、不要なら削除 */
+  margin: 0 auto;
+  padding: 20px 0;
+}
+
+.site-header nav {
+  background: #f4f4f4;
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.site-header h1 {
+  margin: 0;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.site-header nav a {
+  text-decoration: none;
+  color: #007bff;
+  font-weight: bold;
+}
+
+.site-header nav a:hover {
+  text-decoration: underline;
+}
     </style>
 </head>
 <body>
 
-    <nav>
+    <nav class="site-header">
         <h1>SilForFans</h1>
         <a href="{{ '/' | relative_url }}">ホーム</a>
         <a href="{{ '/list' | relative_url }}">Site map</a>
