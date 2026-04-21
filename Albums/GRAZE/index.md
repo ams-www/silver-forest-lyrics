@@ -1,7 +1,23 @@
 ---
 title: GRAZE
 ---
+<style>body {
+  background-color: #191919; /* BGCOLOR */
+  color: #EEEEEE;            /* TEXT */
+}
 
+a:link {
+  color: #777777;            /* LINK */
+}
+
+a:visited {
+  color: #777777;            /* VLINK */
+}
+
+a:active {
+  color: #777777;            /* ALINK */
+}
+</style>
   <base href="https://graze.tonosama.jp/">
 
 　■ボーカル曲とトランス中心の東方アレンジCD<BR>
