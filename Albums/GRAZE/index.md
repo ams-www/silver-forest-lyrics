@@ -1,7 +1,8 @@
 ---
 title: GRAZE
 ---
-<style>body {
+<style>
+	body {
   background-color: #191919; /* BGCOLOR */
   color: #EEEEEE;            /* TEXT */
 }
