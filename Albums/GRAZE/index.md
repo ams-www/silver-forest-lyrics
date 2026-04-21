@@ -1,8 +1,8 @@
 ---
 title: GRAZE
-baseurl: "https://graze.tonosama.jp/"
 ---
 
+  <base href="https://graze.tonosama.jp/">
 
 　■ボーカル曲とトランス中心の東方アレンジCD<BR>
 　　東方アレンジ4作目にして、初のボーカルアレンジに挑戦<BR>
