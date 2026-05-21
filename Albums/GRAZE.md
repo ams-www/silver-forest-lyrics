@@ -1,4 +1,4 @@
-# GRAZE
+# [GRAZE](https://graze.tonosama.jp/)
 
 ## ■ボーカル曲とトランス中心の東方アレンジCD
 東方アレンジ4作目にして、初のボーカルアレンジに挑戦
@@ -11,15 +11,15 @@
 
 | No. | Track Name | Memo | Original | Source |
 | --- | --- | --- | --- | --- |
-| 01. | [蒼空に舞え、墨染の桜](蒼空に舞え、墨染の桜) | Trance + Vocal<br>Vocal:さゆり Lryics:NYOでお送りする<br>妖夢視点での墨染めの桜 | 幽雅に咲かせ、墨染の桜 | 東方妖々夢 |
+| 01. | [蒼空に舞え、墨染の桜](/Lyrics/蒼空に舞え、墨染の桜) | Trance + Vocal<br>Vocal:さゆり Lryics:NYOでお送りする<br>妖夢視点での墨染めの桜 | 幽雅に咲かせ、墨染の桜 | 東方妖々夢 |
 | 02. | master of doll | スピード感あふれるTrance | ブクレシュティの人形師 | 東方妖々夢 |
-| 03. | [春風](春風) | Vocalアキが歌う癒し系バラード<br>原曲とかなり違う東方アレンジ<br>Lryics:NYO | 風の循環 ～ Wind Tour | 東方文花帖 |
+| 03. | [春風](/Lyrics/春風) | Vocalアキが歌う癒し系バラード<br>原曲とかなり違う東方アレンジ<br>Lryics:NYO | 風の循環 ～ Wind Tour | 東方文花帖 |
 | 04. | Mooned Insect | Trance + Piano<br>落ち着いた感じの東方アレンジ<br>ピアノフレーズがリフレイン | 蠢々秋月 ～ Mooned Insect | 東方永夜抄 |
 | 05. | RED MOON | 中華風House<br>いつもと違う手法でアレンジ<br>クラブっぽい仕上がり | 砕月 | 東方萃夢想 |
 | 06. | 冬風 | Piano Solo<br>ほぼ一発弾きでそのまま収録 | 風の循環 ～ Wind Tour | 東方文花帖 |
 | 07. | 魍魎の闇 | 攻撃的HR/HM<br>1面の曲って、こんなだったっけ？ | 幻視の夜 ～ Ghostly Eyes | 東方永夜抄 |
 | 08. | 春風 -- instrumental | ボーカル曲のハーモニカ版<br>原曲とは全然違う東方アレンジ | 風の循環 ～ Wind Tour | 東方文花帖 |
-| 09. | [ツンデレアリスの憂鬱](ツンデレアリスの憂鬱) | オリジナル電波ソング?<br>魔理沙とアリスが･･･ | Vocal:MAI Kana<br>Lryics:NYO | Music:NYO |
+| 09. | [ツンデレアリスの憂鬱](/Lyrics/ツンデレアリスの憂鬱) | オリジナル電波ソング?<br>魔理沙とアリスが･･･ | Vocal:MAI Kana<br>Lryics:NYO | Music:NYO |
 
 ---
 
