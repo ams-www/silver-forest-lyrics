@@ -1,1 +1,36 @@
-*-checkpoint.md
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Jupyter runtime files
+.jupyter/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# JupyterLab build artifacts
+lab/
+build/
+
+# VSCode settings
+.vscode/
+
+# Notebook metadata noise（不要な自動生成メタデータ）
+*.nbconvert.ipynb
+
+# Python packaging
+*.egg-info/
+dist/
+build/
