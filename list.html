@@ -10,7 +10,7 @@ title: フォルダ・ページ一覧
 <ul>
   {% for p in site.pages %}
     {% if p.title %}
-      <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a> ({{ p.url }})</li>
+      <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
     {% endif %}
   {% endfor %}
 </ul>
