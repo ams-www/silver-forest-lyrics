@@ -1,4 +1,4 @@
-﻿# 02.Ever... carry on
+﻿# 02.Ever… carry on
 
 Ever... carry on【悠久パラダイム】妖魔夜行 東方ボーカルアレンジ歌詞
 【Silver Forest】
