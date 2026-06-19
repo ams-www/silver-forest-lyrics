@@ -43,13 +43,17 @@
 .site-header nav a:hover {
   text-decoration: underline;
 }
+.site-logo {
+    margin: 0;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
     </style>
 </head>
 <body>
 
     <nav class="site-header">
-        <h1>SilForFans</h1>
-        <a href="{{ '/' | relative_url }}">ホーム</a>
+        <a href="{{ '/' | relative_url }}" class="site-logo">SilForeFans</a>
         <a href="{{ '/list' | relative_url }}">Site map</a>
         <a href="{{ '/about/' | relative_url }}">About our</a>
     </nav>
