@@ -1,3 +1,8 @@
+---
+related_people:
+  - MAI
+  - maicoro-phone
+---
 ﻿# 07.illicit love
 
 illicit love【Plutinum Crest - thousand mirage】ボーダーオブライフ (東方妖々夢) 東方ボーカルアレンジ歌詞

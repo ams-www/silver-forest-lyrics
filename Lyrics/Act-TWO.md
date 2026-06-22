@@ -1,3 +1,7 @@
+---
+related_people:
+  - 葉月ゆら
+---
 ﻿# 03.Act-TWO
 
 Act-TWO【Plutinum Crest - Just Broke up】魔界地方都市エソテリア 妖怪寺 (東方星蓮船) 東方ボーカルアレンジ歌詞

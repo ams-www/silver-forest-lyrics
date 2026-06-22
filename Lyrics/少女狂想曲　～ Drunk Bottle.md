@@ -1,3 +1,8 @@
+---
+related_people:
+  - Kana
+  - アキ
+---
 ﻿# 08.少女狂想曲　～ Drunk Bottle
 
 少女狂想曲　〜 Drunk Bottle【舞い降りた神の子】少女綺想曲　〜 Dream Battle (東方永夜抄) 東方ボーカルアレンジ歌詞

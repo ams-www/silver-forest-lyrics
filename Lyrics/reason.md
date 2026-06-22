@@ -1,3 +1,8 @@
+---
+related_people:
+  - MAI
+  - maicoro-phone
+---
 ﻿# 03.reason
 
 reason【舞い降りた神の子】Dream Express (東方怪綺談) 東方ボーカルアレンジ歌詞

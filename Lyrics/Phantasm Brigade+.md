@@ -1,3 +1,7 @@
+---
+related_people:
+  - ichiko
+---
 ﻿# 02.Phantasm Brigade+
 
 Phantasm Brigade+【闇の魔法結界】ネクロファンタジア (東方妖々夢) 東方ボーカルアレンジ歌詞

@@ -1,3 +1,7 @@
+---
+related_people:
+  - あやや
+---
 ﻿# 05.Life goes on
 
 Life goes on【Vermillion Summer】閉ざせし雲の通い路 (東方星蓮船) 東方ボーカルアレンジ歌詞

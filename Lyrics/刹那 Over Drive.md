@@ -1,3 +1,7 @@
+---
+related_people:
+  - サリヤ人
+---
 ﻿# 02.刹那 Over Drive
 
 刹那 Over Drive【刹那 Over Drive】孤独なウェアウルフ (東方輝針城) 東方ボーカルアレンジ歌詞

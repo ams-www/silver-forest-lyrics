@@ -1,3 +1,7 @@
+---
+related_people:
+  - さゆり
+---
 ﻿# 03.Bad AppleⅡ
 
 Bad AppleⅡ【Ancient Blue】Bad Apple!!,東方幻想郷 東方ボーカルアレンジ歌詞

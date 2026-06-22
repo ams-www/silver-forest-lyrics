@@ -1,3 +1,9 @@
+---
+related_people:
+  - MAI
+  - maicoro-phone
+  - アキ
+---
 ﻿# 03.Camellia
 
 Camellia【刹那 Over Drive】旧地獄街道を行く (東方地霊殿) 東方ボーカルアレンジ歌詞

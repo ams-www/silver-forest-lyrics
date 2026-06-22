@@ -1,3 +1,7 @@
+---
+related_people:
+  - さゆり
+---
 ﻿# 02.Someday I'll be there
 
 Someday I'll be there【紅き月のアリア】ラクトガール　〜 少女密室  東方ボーカルアレンジ歌詞

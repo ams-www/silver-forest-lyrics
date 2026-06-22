@@ -1,3 +1,8 @@
+---
+related_people:
+  - 奏瀬いちこ
+  - 希
+---
 ﻿# 06.Remind MachinE
 
 Remind MachinE【Sweet little Lily】幽霊楽団 (東方妖々夢) 東方ボーカルアレンジ歌詞

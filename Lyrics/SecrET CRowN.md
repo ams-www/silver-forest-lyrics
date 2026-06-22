@@ -1,3 +1,7 @@
+---
+related_people:
+  - 奏瀬いちこ
+---
 ﻿# 05.SecrET CRowN
 
 SecrET CRowN【Sweet little Lily】遥か３８万キロのボヤージュ (東方紺珠伝) 東方ボーカルアレンジ歌詞

@@ -1,3 +1,7 @@
+---
+related_people:
+  - Fantom
+---
 ﻿# 04.Nitory
 
 Nitory【蒼天Explorer】始原のビート (東方輝針城) 東方ボーカルアレンジ歌詞

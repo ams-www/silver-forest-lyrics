@@ -1,3 +1,11 @@
+---
+related_people:
+  - SARA
+  - SAYA
+  - ひかる
+  - みりる
+  - アキ
+---
 ﻿# 09.Summer halation
 
 Summer halation【感情エグゼキュージョン】ネクロファンタジア (東方妖々夢) 東方ボーカルアレンジ歌詞

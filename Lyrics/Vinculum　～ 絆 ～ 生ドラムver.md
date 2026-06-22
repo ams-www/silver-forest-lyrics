@@ -1,3 +1,7 @@
+---
+related_people:
+  - さゆり
+---
 ﻿# 10.Vinculum　～ 絆 ～ 生ドラムver
 
 Vinculum　〜 絆 〜 生ドラムver【蒼き月の鎮魂歌】さゆり オリジナル 東方ボーカルアレンジ歌詞

@@ -1,3 +1,8 @@
+---
+related_people:
+  - Kana
+  - アキ
+---
 ﻿# 05.innocent
 
 innocent【闇の魔法結界】不思議なお祓い棒 (東方輝針城) 東方ボーカルアレンジ歌詞

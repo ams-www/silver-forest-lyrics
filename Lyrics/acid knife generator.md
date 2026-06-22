@@ -1,3 +1,7 @@
+---
+related_people:
+  - あやや
+---
 ﻿# 04.acid knife generator
 
 acid knife generator【聖少女サクリファイス】封じられた妖怪 東方ボーカルアレンジ歌詞

@@ -1,3 +1,9 @@
+---
+related_people:
+  - ひかる
+  - るぅか
+  - アキ
+---
 ﻿# 06.永遠 Refrain
 
 永遠 Refrain【刹那 Over Drive】風神少女 (東方文花帖) 東方ボーカルアレンジ歌詞

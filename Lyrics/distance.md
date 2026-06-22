@@ -1,3 +1,8 @@
+---
+related_people:
+  - MAI
+  - maicoro-phone
+---
 ﻿# 03.distance
 
 distance【Sweet little Lily】春の湊に (東方星蓮船) 東方ボーカルアレンジ歌詞

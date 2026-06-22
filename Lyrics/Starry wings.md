@@ -1,3 +1,7 @@
+---
+related_people:
+  - アキ
+---
 ﻿# 03.Starry wings
 
 Starry wings【Plutinum Crest - thousand mirage】幽霊楽団　〜 Phantom Ensemble (東方妖々夢) 東方ボーカルアレンジ歌詞

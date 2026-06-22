@@ -1,3 +1,8 @@
+---
+related_people:
+  - めらみぽっぷ
+  - ゴム
+---
 ﻿# 08.Burning Force
 
 Burning Force【東方蒼天歌】恋色マスタースパーク 東方ボーカルアレンジ歌詞

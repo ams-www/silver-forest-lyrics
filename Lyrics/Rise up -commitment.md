@@ -1,3 +1,8 @@
+---
+related_people:
+  - さきち
+  - 星河さきち
+---
 ﻿# 08.Rise up -commitment
 
 Rise up -commitment【Reversal Process】夜が降りてくる (東方萃夢想) 東方ボーカルアレンジ歌詞

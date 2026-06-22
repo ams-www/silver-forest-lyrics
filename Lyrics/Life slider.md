@@ -1,3 +1,8 @@
+---
+related_people:
+  - さゆり
+  - 希
+---
 ﻿# 03.Life slider
 
 Life slider【神の奏でしセレナーデ】妖怪寺へようこそ (東方神霊廟) 東方ボーカルアレンジ歌詞

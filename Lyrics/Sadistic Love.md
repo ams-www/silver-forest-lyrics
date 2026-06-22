@@ -1,3 +1,7 @@
+---
+related_people:
+  - さゆり
+---
 ﻿# 02.Sadistic Love
 
 Sadistic Love【東方Starry-Eyed】平安のエイリアン 東方ボーカルアレンジ歌詞

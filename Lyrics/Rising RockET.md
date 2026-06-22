@@ -1,3 +1,8 @@
+---
+related_people:
+  - ichiko
+  - 奏瀬いちこ
+---
 ﻿# 01.Rising RockET
 
 Rising RockET【東方Fire&Ice】星条旗のピエロ (東方紺珠伝) 東方ボーカルアレンジ歌詞

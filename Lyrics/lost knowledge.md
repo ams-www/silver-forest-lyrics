@@ -1,3 +1,7 @@
+---
+related_people:
+  - なつみ
+---
 ﻿# 08.lost knowledge
 
 lost knowledge【永き夜のロンド】プレインエイジア 東方ボーカルアレンジ歌詞

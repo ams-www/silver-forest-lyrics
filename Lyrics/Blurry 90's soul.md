@@ -1,3 +1,7 @@
+---
+related_people:
+  - さゆり
+---
 ﻿# 05.Blurry 90's soul
 
 Blurry 90's soul【Ancient Blue】星幽天使 東方ボーカルアレンジ歌詞

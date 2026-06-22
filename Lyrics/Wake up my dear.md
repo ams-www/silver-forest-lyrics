@@ -1,3 +1,7 @@
+---
+related_people:
+  - サリヤ人
+---
 ﻿# 02.Wake up my dear
 
 Wake up my dear【Silver Fortune】フォールオブフォール　〜 秋めく滝 (東方風神録) 東方ボーカルアレンジ歌詞

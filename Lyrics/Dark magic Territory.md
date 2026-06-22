@@ -1,3 +1,7 @@
+---
+related_people:
+  - サリヤ人
+---
 ﻿# 03.Dark magic Territory
 
 Dark magic Territory【闇の魔法結界】厄神様の通り道 (東方風神録) 東方ボーカルアレンジ歌詞

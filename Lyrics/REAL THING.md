@@ -1,3 +1,8 @@
+---
+related_people:
+  - なつみ
+  - 希
+---
 ﻿# 09.REAL THING
 
 REAL THING【東方秘封魔術】衛星カフェテラス 東方ボーカルアレンジ歌詞

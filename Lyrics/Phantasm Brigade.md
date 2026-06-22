@@ -1,3 +1,7 @@
+---
+related_people:
+  - さゆり
+---
 ﻿# 02.Phantasm Brigade
 
 Phantasm Brigade【Phantasm Brigade】ネクロファンタジア 東方ボーカルアレンジ歌詞

@@ -1,3 +1,8 @@
+---
+related_people:
+  - Nano
+  - なつみ
+---
 ﻿# 06.silent moon…
 
 Silent Moon...【永き夜のロンドⅡ】オリジナル 東方ボーカルアレンジ歌詞

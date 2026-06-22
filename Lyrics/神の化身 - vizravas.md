@@ -1,3 +1,7 @@
+---
+related_people:
+  - なつみ
+---
 ﻿# 03.神の化身 - vizravas
 
 神の化身 - vizravas【東方Starry-Eyed】虎柄の毘沙門天 東方ボーカルアレンジ歌詞

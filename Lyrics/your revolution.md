@@ -1,3 +1,7 @@
+---
+related_people:
+  - あやや
+---
 ﻿# 06.your revolution
 
 your revolution【妖しき夢のラプソディー】少女幻葬　〜 Necro-Fantasy (東方妖々夢) 東方ボーカルアレンジ歌詞

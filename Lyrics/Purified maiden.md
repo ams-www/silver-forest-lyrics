@@ -1,3 +1,9 @@
+---
+related_people:
+  - MAI
+  - ichiko
+  - 奏瀬いちこ
+---
 ﻿# 03.Purified maiden
 
 Purified maiden【東方Fire&Ice】ピュアヒューリーズ　〜 心の在処 (東方紺珠伝) 東方ボーカルアレンジ歌詞

@@ -1,3 +1,7 @@
+---
+related_people:
+  - saori
+---
 ﻿# 08.Tactical Cucumber
 
 Tactical Cucumber【Reincarnation】神々が恋した幻想郷 東方ボーカルアレンジ歌詞

@@ -1,3 +1,10 @@
+---
+related_people:
+  - さきち
+  - みりる
+  - アキ
+  - 希
+---
 ﻿# 05.蒼天Explorer -s
 
 蒼天Explorer -s【蒼天Explorer】ラクトガール (東方紅魔郷) 東方ボーカルアレンジ歌詞

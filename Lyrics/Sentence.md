@@ -1,3 +1,7 @@
+---
+related_people:
+  - さゆり
+---
 ﻿# 01.Sentence
 
 Sentence【Sentence】フォールオブフォール　〜 秋めく滝 東方ボーカルアレンジ歌詞

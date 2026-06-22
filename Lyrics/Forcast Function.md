@@ -1,3 +1,8 @@
+---
+related_people:
+  - さゆり
+  - 希
+---
 ﻿# 04.Forcast Function
 
 Forcast Function【東方ノスタルジア】ブクレシュティの人形師 東方ボーカルアレンジ歌詞

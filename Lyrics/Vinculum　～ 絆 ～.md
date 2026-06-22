@@ -1,3 +1,7 @@
+---
+related_people:
+  - さゆり
+---
 ﻿# 02.Vinculum　～ 絆 ～
 
 Vinculum　〜 絆 〜【月光乱舞】オリジナル 東方ボーカルアレンジ歌詞

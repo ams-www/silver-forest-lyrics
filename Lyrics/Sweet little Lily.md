@@ -1,3 +1,7 @@
+---
+related_people:
+  - 奏瀬いちこ
+---
 ﻿# 01.Sweet little Lily
 
 Sweet little Lily【Sweet little Lily】パンデモニックプラネット (東方紺珠伝) 東方ボーカルアレンジ歌詞

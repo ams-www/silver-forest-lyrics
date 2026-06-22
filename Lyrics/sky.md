@@ -1,3 +1,8 @@
+---
+related_people:
+  - MAI
+  - maicoro-phone
+---
 ﻿# 05.sky
 
 sky【感情エグゼキュージョン】万年置き傘にご注意を (東方星蓮船) 東方ボーカルアレンジ歌詞

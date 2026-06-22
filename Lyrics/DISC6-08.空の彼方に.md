@@ -1,3 +1,9 @@
+---
+related_people:
+  - Kana
+  - あやや
+  - 希
+---
 ﻿# DISC6-08.空の彼方に
 
 空の彼方に【Silver Forest - 2006-2012 BEST2 DISC6】フォールオブフォール (東方風神録) 東方ボーカルアレンジ歌詞

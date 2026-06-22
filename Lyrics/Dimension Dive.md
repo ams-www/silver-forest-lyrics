@@ -1,3 +1,7 @@
+---
+related_people:
+  - さきち
+---
 ﻿# 06.Dimension Dive
 
 Dimension Dive【感情エグゼキュージョン】永遠の三日天下 (弾幕アマノジャク) 東方ボーカルアレンジ歌詞

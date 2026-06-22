@@ -1,3 +1,7 @@
+---
+related_people:
+  - アキ
+---
 ﻿# 05.Vivid Vermilion
 
 Vivid Vermilion【Phantasm Brigade】ほおずきみたいに紅い魂 東方ボーカルアレンジ歌詞

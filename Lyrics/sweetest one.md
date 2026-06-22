@@ -1,3 +1,7 @@
+---
+related_people:
+  - なつみ
+---
 ﻿# 05.sweetest one
 
 sweetest one【EXTRA BITTERⅡ】お宇佐さまの素い幡 東方ボーカルアレンジ歌詞

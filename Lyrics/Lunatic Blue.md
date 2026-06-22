@@ -1,3 +1,8 @@
+---
+related_people:
+  - さゆり
+  - 希
+---
 ﻿# 01.Lunatic Blue
 
 Lunatic Blue【Rebirth】妖々跋扈 東方ボーカルアレンジ歌詞

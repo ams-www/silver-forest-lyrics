@@ -1,3 +1,7 @@
+---
+related_people:
+  - Nano
+---
 ﻿# 09.⑨destiny ～ ずっとチルノのターン
 
 ⑨destiny ～ ずっとチルノのターン【Rebirth】おてんば恋娘, ネイティブフェイス 東方ボーカルアレンジ歌詞

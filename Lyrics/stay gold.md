@@ -1,3 +1,7 @@
+---
+related_people:
+  - アキ
+---
 ﻿# 08.stay gold
 
 stay gold【紅き月のアリア】メイドと血の懐中時計  東方ボーカルアレンジ歌詞

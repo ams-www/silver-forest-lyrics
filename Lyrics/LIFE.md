@@ -1,3 +1,8 @@
+---
+related_people:
+  - MAI
+  - maicoro-phone
+---
 ﻿# 05.LIFE
 
 LIFE【Silver Fortune】ルーネイトエルフ (東方紅魔郷) 東方ボーカルアレンジ歌詞

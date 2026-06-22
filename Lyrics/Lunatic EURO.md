@@ -1,3 +1,7 @@
+---
+related_people:
+  - あやや
+---
 ﻿# 02.Lunatic EURO
 
 Lunatic EURO【永き夜のロンド】竹取飛翔　〜 Lunatic Princess 東方ボーカルアレンジ歌詞

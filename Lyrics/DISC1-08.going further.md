@@ -1,3 +1,8 @@
+---
+related_people:
+  - あやや
+  - 希
+---
 ﻿# DISC1-08.going further
 
 going further【Silver Forest - 2006-2012 BEST1 DISC1】ラストリモート (東方妖々夢) 東方ボーカルアレンジ歌詞

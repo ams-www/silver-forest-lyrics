@@ -1,3 +1,8 @@
+---
+related_people:
+  - Nano
+  - さゆり
+---
 ﻿# 02.starting over
 
 starting over【しろうさぎ】無何有の郷 東方ボーカルアレンジ歌詞

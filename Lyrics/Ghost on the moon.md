@@ -1,3 +1,8 @@
+---
+related_people:
+  - あやや
+  - 希
+---
 ﻿# 07.Ghost on the moon
 
 Ghost on the moon【東方秘封魔術】向こう側の月 東方ボーカルアレンジ歌詞

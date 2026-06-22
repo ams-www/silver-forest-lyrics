@@ -1,3 +1,7 @@
+---
+related_people:
+  - なつみ
+---
 ﻿# 03.delight
 
 delight【しろうさぎ】六十年目の東方裁判　〜 Fate of Sixty Years 東方ボーカルアレンジ歌詞

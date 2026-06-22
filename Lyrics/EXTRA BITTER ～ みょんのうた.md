@@ -1,3 +1,8 @@
+---
+related_people:
+  - アキ
+  - 希
+---
 ﻿# 03.EXTRA BITTER ～ みょんのうた
 
 EXTRA BITTER 〜 みょんのうた【東方悠幻奏】広有射怪鳥事 東方ボーカルアレンジ歌詞

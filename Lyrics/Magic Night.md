@@ -1,3 +1,7 @@
+---
+related_people:
+  - なつみ
+---
 ﻿# 03.Magic Night
 
 Magic Night【東方夢想連歌】懐かしき東方の血 東方ボーカルアレンジ歌詞

@@ -1,3 +1,7 @@
+---
+related_people:
+  - 野宮あゆみ
+---
 ﻿# 04.My last princess
 
 My last princess【紅き月のアリア】上海紅茶館 〜 Chinese Tea 東方ボーカルアレンジ歌詞

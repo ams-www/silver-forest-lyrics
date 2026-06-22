@@ -1,3 +1,7 @@
+---
+related_people:
+  - あやや
+---
 ﻿# 04.Plastic Mountain
 
 Plastic Mountain【EXTRA BITTERⅡ】妖怪の山 東方ボーカルアレンジ歌詞

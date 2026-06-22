@@ -1,3 +1,8 @@
+---
+related_people:
+  - あやや
+  - アキ
+---
 ﻿# 04.Direction still unknown
 
 Direction still unknown【永き夜のロンドⅡ】夜雀の歌声　～ Night Bird 東方ボーカルアレンジ歌詞

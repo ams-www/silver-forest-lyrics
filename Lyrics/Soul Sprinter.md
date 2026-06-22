@@ -1,3 +1,10 @@
+---
+related_people:
+  - さきち
+  - 奏瀬いちこ
+  - 希
+  - 星河さきち
+---
 ﻿# 05.Soul Sprinter
 
 Soul Sprinter【Reversal Process】死霊の夜桜 (東方神霊廟) 東方ボーカルアレンジ歌詞

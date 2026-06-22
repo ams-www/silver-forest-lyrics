@@ -1,3 +1,7 @@
+---
+related_people:
+  - 奏瀬いちこ
+---
 ﻿# 02.Reversal Process
 
 Reversal Process【Reversal Process】逆転するホイールオブフォーチュン　 -- ４面ボス・稀神 サグメのテーマ (東方紺珠伝) 東方ボーカルアレンジ歌詞

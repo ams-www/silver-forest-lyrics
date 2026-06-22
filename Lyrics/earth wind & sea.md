@@ -1,3 +1,7 @@
+---
+related_people:
+  - Nano
+---
 ﻿# 07.earth wind & sea
 
 earth wind & sea【東方夢想連歌】地霊達の帰宅 東方ボーカルアレンジ歌詞

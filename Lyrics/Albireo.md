@@ -1,3 +1,7 @@
+---
+related_people:
+  - アキ
+---
 ﻿# 04.Albireo
 
 Albireo【Plutinum Crest - Just Broke up】虎柄の毘沙門天 (東方星蓮船) 東方ボーカルアレンジ歌詞

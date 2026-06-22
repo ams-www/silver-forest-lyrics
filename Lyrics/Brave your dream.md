@@ -1,3 +1,7 @@
+---
+related_people:
+  - さゆり
+---
 ﻿# 01.Brave your dream
 
 Brave your dream【東方夢想連歌】天空の花の都 東方ボーカルアレンジ歌詞

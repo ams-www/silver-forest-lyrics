@@ -1,3 +1,7 @@
+---
+related_people:
+  - さゆり
+---
 ﻿# DISC2-08.Ⅶφ7
 
 Ⅶφ7【Silver Forest - 2006-2012 BEST1 DISC2】ラストリモート Silver Forestオリジナル歌詞

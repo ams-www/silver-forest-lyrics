@@ -1,3 +1,8 @@
+---
+related_people:
+  - Kana
+  - アキ
+---
 ﻿# 09.faint love
 
 faint love【Silver Fortune】柳の下のデュラハン (東方輝針城) 東方ボーカルアレンジ歌詞

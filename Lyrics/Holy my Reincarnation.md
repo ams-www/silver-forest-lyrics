@@ -1,3 +1,7 @@
+---
+related_people:
+  - なつみ
+---
 ﻿# 02.Holy my Reincarnation
 
 Holy my Reincarnation【東方秘封魔術】リーインカーネイション 東方ボーカルアレンジ歌詞

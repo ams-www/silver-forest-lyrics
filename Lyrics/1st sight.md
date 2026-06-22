@@ -1,3 +1,8 @@
+---
+related_people:
+  - さゆり
+  - 希
+---
 ﻿# 01.1st sight
 
 1st sight【Vermillion Summer】幽霊客船の時空を越えた旅 キャプテン・ムラサ (東方星蓮船)  東方ボーカルアレンジ歌詞

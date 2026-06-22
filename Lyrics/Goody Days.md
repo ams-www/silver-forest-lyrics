@@ -1,3 +1,14 @@
+---
+related_people:
+  - SAYA
+  - ichiko
+  - さきち
+  - みりる
+  - アキ
+  - 奏瀬いちこ
+  - 希
+  - 星河さきち
+---
 ﻿# 09.Goody Days
 
 Goody Days【東方Fire&Ice】恋色マスタースパーク (東方永夜抄)・少女綺想曲　〜 Dream Battle (東方永夜抄) 東方ボーカルアレンジ歌詞

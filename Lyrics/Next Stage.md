@@ -1,3 +1,8 @@
+---
+related_people:
+  - さゆり
+  - 希
+---
 ﻿# 05.Next Stage
 
 Next Stage【東方夢想連歌】御柱の墓場 東方ボーカルアレンジ歌詞

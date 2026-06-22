@@ -1,3 +1,8 @@
+---
+related_people:
+  - あやや
+  - アキ
+---
 ﻿# 03.Let me try again
 
 Let me try again【永き夜のロンドⅡ】少女綺想曲　～ Dream Battle 東方ボーカルアレンジ歌詞

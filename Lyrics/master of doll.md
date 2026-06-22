@@ -1,3 +1,8 @@
+---
+related_people:
+  - さゆり
+  - 希
+---
 ﻿# 01.master of doll
 
 master of doll【EXTRA BITTERⅡ】ブクレシュティの人形師 東方ボーカルアレンジ歌詞

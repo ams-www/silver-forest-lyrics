@@ -1,3 +1,7 @@
+---
+related_people:
+  - さゆり
+---
 ﻿# 02.BLOOD ON BLOOD
 
 BLOOD ON BLOOD【Rebirth】亡き王女の為のセプテット 東方ボーカルアレンジ歌詞

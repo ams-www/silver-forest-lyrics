@@ -1,3 +1,9 @@
+---
+related_people:
+  - ichiko
+  - 奏瀬いちこ
+  - 希
+---
 ﻿# 05.Longing Snow
 
 Longing Snow【東方Fire&Ice】妖怪モダンコロニー (ダブルスポイラー) 東方ボーカルアレンジ歌詞

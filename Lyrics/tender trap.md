@@ -1,3 +1,8 @@
+---
+related_people:
+  - Kana
+  - アキ
+---
 ﻿# 06.tender trap
 
 tender trap【東方Fire&Ice】遥か３８万キロのボヤージュ (東方紺珠伝) 東方ボーカルアレンジ歌詞

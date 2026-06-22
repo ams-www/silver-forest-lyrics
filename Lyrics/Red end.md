@@ -1,3 +1,8 @@
+---
+related_people:
+  - MAI
+  - maicoro-phone
+---
 ﻿# 01.Red end
 
 Red end【感情エグゼキュージョン】ヴワル魔法図書館 (東方紅魔郷) 東方ボーカルアレンジ歌詞

@@ -1,3 +1,7 @@
+---
+related_people:
+  - さゆり
+---
 ﻿# 04.風の記憶 ～The Endless Stream～
 
 風の記憶 〜The Endless Stream〜【月光乱舞】オリジナル 東方ボーカルアレンジ歌詞

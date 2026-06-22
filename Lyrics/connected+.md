@@ -1,3 +1,8 @@
+---
+related_people:
+  - MAI
+  - maicoro-phone
+---
 ﻿# 08.connected+
 
 connected+【闇の魔法結界】信仰は儚き人間の為に (東方風神録) 東方ボーカルアレンジ歌詞

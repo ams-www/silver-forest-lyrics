@@ -1,3 +1,8 @@
+---
+related_people:
+  - さゆり
+  - 希
+---
 ﻿# 02.Starry Sky
 
 Starry Sky【Ancient Blue】星の器　〜 Casket of Star,東方幻想郷 東方ボーカルアレンジ歌詞

@@ -1,3 +1,7 @@
+---
+related_people:
+  - さゆり
+---
 ﻿# 05.Keep the Faith
 
 Keep the Faith【東方蒼天歌】信仰は儚き人間の為に 東方ボーカルアレンジ歌詞

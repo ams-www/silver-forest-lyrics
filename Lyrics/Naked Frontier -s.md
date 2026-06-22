@@ -1,3 +1,7 @@
+---
+related_people:
+  - サリヤ人
+---
 ﻿# 01.Naked Frontier -s
 
 Naked Frontier -s【蒼天Explorer】無何有の郷 (東方妖々夢) 東方ボーカルアレンジ歌詞

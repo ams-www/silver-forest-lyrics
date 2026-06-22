@@ -1,3 +1,7 @@
+---
+related_people:
+  - 佳織みちる
+---
 ﻿# 08.Sweet Heart
 
 Sweet Heart【悠久パラダイム】暗闇の風穴 東方ボーカルアレンジ歌詞

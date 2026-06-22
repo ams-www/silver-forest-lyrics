@@ -1,3 +1,9 @@
+---
+related_people:
+  - SAYA
+  - ichiko
+  - 希
+---
 ﻿# 03.annexure
 
 annexure【月の魔法少女】風神少女 (東方文花帖) 東方ボーカルアレンジ歌詞

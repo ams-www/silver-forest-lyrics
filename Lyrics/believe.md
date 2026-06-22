@@ -1,3 +1,9 @@
+---
+related_people:
+  - MAI
+  - Makinouta
+  - maicoro-phone
+---
 ﻿# 06.believe
 
 believe【舞い降りた神の子】神さびた古戦場 (東方風神録) 東方ボーカルアレンジ歌詞

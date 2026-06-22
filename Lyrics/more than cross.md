@@ -1,3 +1,7 @@
+---
+related_people:
+  - さゆり
+---
 ﻿# 05.more than cross
 
 more than cross【黄昏シューティングスター】幽霊客船の時空を越えた旅 東方ボーカルアレンジ歌詞

@@ -1,3 +1,8 @@
+---
+related_people:
+  - なつみ
+  - 希
+---
 ﻿# 04.providing the atmosphere
 
 providing the atmosphere【東方秘封魔術】大空魔術 東方ボーカルアレンジ歌詞

@@ -1,3 +1,8 @@
+---
+related_people:
+  - Kana
+  - アキ
+---
 ﻿# 05.faint love (Full)
 
 faint love (Full)【刹那 Over Drive】柳の下のデュラハン (東方輝針城) 東方ボーカルアレンジ歌詞
