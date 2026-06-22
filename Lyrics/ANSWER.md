@@ -1,3 +1,8 @@
+---
+related_people:
+  - さきち
+  - 星河さきち
+---
 ﻿# 06.ANSWER
 
 ANSWER【Reversal Process】妖魔夜行 (東方紅魔郷) 東方ボーカルアレンジ歌詞

@@ -1,3 +1,7 @@
+---
+related_people:
+  - アキ
+---
 ﻿# 03.seventh soul ～ 十六夜モード
 
 seventh soul 〜 十六夜モード【Rebirth】懐かしき東方の血 東方ボーカルアレンジ歌詞

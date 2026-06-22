@@ -1,3 +1,8 @@
+---
+related_people:
+  - さゆり
+  - 希
+---
 ﻿# DISC2-09.someday
 
 someday【Silver Forest - 2006-2012 BEST1 DISC2】可愛い大戦争のリフレーン (東方三月精) 東方ボーカルアレンジ歌詞

@@ -1,3 +1,7 @@
+---
+related_people:
+  - 美里
+---
 ﻿# 06.the lost
 
 the lost【Lunatic Beat】渡る者の途絶えた橋 東方ボーカルアレンジ歌詞

@@ -1,3 +1,7 @@
+---
+related_people:
+  - さゆり
+---
 ﻿# 05.drive to the ever sky
 
 drive to the ever sky【月光乱舞】少女秘封倶楽部  東方ボーカルアレンジ歌詞

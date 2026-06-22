@@ -1,3 +1,7 @@
+---
+related_people:
+  - さゆり
+---
 ﻿# 09.everlasting
 
 everlasting【Lunatic Beat】アルティメットトゥルース 東方ボーカルアレンジ歌詞

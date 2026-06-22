@@ -1,3 +1,7 @@
+---
+related_people:
+  - さゆり
+---
 ﻿# 02.invisible trickster
 
 invisible trickster【永き夜のロンドⅡ】幻視の夜　～ Ghostly Eyes 東方ボーカルアレンジ歌詞

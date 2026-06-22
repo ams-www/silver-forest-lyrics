@@ -1,3 +1,7 @@
+---
+related_people:
+  - あやや
+---
 ﻿# 04.Vermillion
 
 Vermillion【黄昏シューティングスター】春の湊　小さな小さな賢将 東方ボーカルアレンジ歌詞

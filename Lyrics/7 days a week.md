@@ -1,3 +1,7 @@
+---
+related_people:
+  - アキ
+---
 ﻿# 01.7 days a week
 
 7 days a week【東方月見が丘】ラクトガール　〜 少女密室 東方ボーカルアレンジ歌詞

@@ -1,3 +1,8 @@
+---
+related_people:
+  - MAI
+  - maicoro-phone
+---
 ﻿# 02.not yet…
 
 not yet...【月の魔法少女】妖々夢 (東方妖々夢) 東方ボーカルアレンジ歌詞

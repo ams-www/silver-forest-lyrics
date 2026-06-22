@@ -1,3 +1,9 @@
+---
+related_people:
+  - Kana
+  - アキ
+  - 紗倉まゆこ
+---
 ﻿# 09.Summer time Heaven
 
 Summer time Heaven【Reversal Process】有頂天変　〜 Wonderful Heaven (東方緋想天) 東方ボーカルアレンジ歌詞

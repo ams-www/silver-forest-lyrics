@@ -1,3 +1,8 @@
+---
+related_people:
+  - MAI
+  - maicoro-phone
+---
 ﻿# 04.second star
 
 second star【刹那 Over Drive】フラワリングナイト (東方花映塚) 東方ボーカルアレンジ歌詞

@@ -1,3 +1,7 @@
+---
+related_people:
+  - アキ
+---
 ﻿# 03.ancient days
 
 ancient days【東方蒼天歌】神は恵みの雨を降らす 東方ボーカルアレンジ歌詞

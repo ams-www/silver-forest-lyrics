@@ -1,3 +1,7 @@
+---
+related_people:
+  - アキ
+---
 ﻿# 07.silver fortune
 
 silver fortune【Silver Fortune】麓の神社 (東方風神録) 東方ボーカルアレンジ歌詞

@@ -1,3 +1,8 @@
+---
+related_people:
+  - さゆり
+  - 希
+---
 ﻿# 09.Cosmic Truth
 
 Cosmic Truth【黄昏シューティングスター】華のさかづき大江山 東方ボーカルアレンジ歌詞

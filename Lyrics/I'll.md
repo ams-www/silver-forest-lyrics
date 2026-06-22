@@ -1,3 +1,8 @@
+---
+related_people:
+  - アキ
+  - 希
+---
 ﻿# 10.I'll
 
 I'll【Vermillion Summer】ラクトガール　〜 少女密室 (東方紅魔郷) 東方ボーカルアレンジ歌詞

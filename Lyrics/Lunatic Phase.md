@@ -1,3 +1,7 @@
+---
+related_people:
+  - ichiko
+---
 ﻿# 01.Lunatic Phase
 
 Lunatic Phase【舞い降りた神の子】忘れがたき、よすがの緑、兎は舞い降りた (東方紺珠伝) 東方ボーカルアレンジ歌詞

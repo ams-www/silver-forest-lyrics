@@ -1,3 +1,7 @@
+---
+related_people:
+  - あやや
+---
 ﻿# 01.Slave to the Drivin'
 
 Slave to the Drivin'【紅き月のアリア】上海紅茶館　〜 Chinese Tea 東方ボーカルアレンジ歌詞

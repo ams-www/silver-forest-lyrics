@@ -1,3 +1,7 @@
+---
+related_people:
+  - あやや
+---
 ﻿# 03.恋時雨 ～KOI SHIGURE～
 
 恋時雨 〜KOI SHIGURE〜【悠久パラダイム】さくらさくら 東方ボーカルアレンジ歌詞

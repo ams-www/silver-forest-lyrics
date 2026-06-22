@@ -1,3 +1,7 @@
+---
+related_people:
+  - さゆり
+---
 ﻿# 02.幻想ノスタルジア ～ under the illusion
 
 幻想ノスタルジア 〜 under the illusion【東方ノスタルジア】千年幻想郷 東方ボーカルアレンジ歌詞

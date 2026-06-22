@@ -1,3 +1,7 @@
+---
+related_people:
+  - アキ
+---
 ﻿# DISC3-08.Go for it
 
 Go for it【Silver Forest - 2006-2012 BEST1 DISC3】Silver Forestオリジナル歌詞

@@ -1,3 +1,7 @@
+---
+related_people:
+  - 三澤秋
+---
 ﻿# 01.White Refrain
 
 White Refrain【紅き月のアリア】U.N.オーエンは彼女なのか？ 東方ボーカルアレンジ歌詞

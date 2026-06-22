@@ -1,3 +1,7 @@
+---
+related_people:
+  - アキ
+---
 ﻿# 09.博麗神主 ZUN＆bear
 
 博麗神主 ZUN＆beer【三千世怪】東方妖々夢　〜 Ancient Temple (東方妖々夢) 東方ボーカルアレンジ歌詞

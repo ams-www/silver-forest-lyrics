@@ -1,3 +1,7 @@
+---
+related_people:
+  - アキ
+---
 ﻿# 06.Prayer
 
 Prayer【しろうさぎ】オリジナル 東方ボーカルアレンジ歌詞

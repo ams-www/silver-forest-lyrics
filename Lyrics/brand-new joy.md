@@ -1,3 +1,7 @@
+---
+related_people:
+  - あやや
+---
 ﻿# 06.brand-new joy
 
 brand-new joy【悠久パラダイム】クリスタライズシルバー 東方ボーカルアレンジ歌詞

@@ -1,3 +1,8 @@
+---
+related_people:
+  - さゆり
+  - 希
+---
 ﻿# 05.hands on me (さゆり ver)
 
 hands on me (さゆり ver)【悠久パラダイム】レトロスペクティブ京都 東方ボーカルアレンジ歌詞

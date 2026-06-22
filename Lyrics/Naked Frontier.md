@@ -1,3 +1,7 @@
+---
+related_people:
+  - サリヤ人
+---
 ﻿# 05.Naked Frontier
 
 Naked Frontier【月の魔法少女】無何有の郷 (東方妖々夢) 東方ボーカルアレンジ歌詞

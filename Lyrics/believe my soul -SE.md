@@ -1,3 +1,15 @@
+---
+related_people:
+  - Fantom
+  - K-MASERA
+  - Nana
+  - Nano
+  - Takahashi
+  - k-masera
+  - さゆり
+  - なつみ
+  - スカーレットな迷彩
+---
 ﻿# 09.believe my soul -SE
 
 believe my soul -SE【東方夢想連歌】少女幻葬 東方ボーカルアレンジ歌詞

@@ -1,3 +1,8 @@
+---
+related_people:
+  - さゆり
+  - 希
+---
 ﻿# 03.Encrypted interface Ⅱ
 
 Encrypted interface Ⅱ【黄昏シューティングスター】東方緋想天 東方ボーカルアレンジ歌詞

@@ -1,3 +1,8 @@
+---
+related_people:
+  - MAI
+  - maicoro-phone
+---
 ﻿# 05.connected
 
 connected【Plutinum Crest - thousand mirage】信仰は儚き人間の為に (東方風神録) 東方ボーカルアレンジ歌詞

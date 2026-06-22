@@ -1,3 +1,7 @@
+---
+related_people:
+  - 野宮あゆみ
+---
 ﻿# 07.Sentence - EURO mix
 
 Sentence - EURO mix【聖少女サクリファイス】フォールオブフォール 東方ボーカルアレンジ歌詞

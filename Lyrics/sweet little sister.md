@@ -1,3 +1,7 @@
+---
+related_people:
+  - さゆり
+---
 ﻿# 02.sweet little sister
 
 sweet little sister【東方蒼天歌】U.N.オーエンは彼女なのか？ 東方ボーカルアレンジ歌詞

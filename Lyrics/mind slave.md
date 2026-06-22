@@ -1,3 +1,8 @@
+---
+related_people:
+  - さゆり
+  - なつみ
+---
 ﻿# 04.mind slave
 
 mind slave【蒼き月の鎮魂歌】霊知の太陽信仰　〜 Nuclear Fusion (東方地霊殿) 東方ボーカルアレンジ歌詞

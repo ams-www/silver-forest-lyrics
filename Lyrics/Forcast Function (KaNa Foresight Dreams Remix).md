@@ -1,3 +1,9 @@
+---
+related_people:
+  - Kana
+  - さゆり
+  - 希
+---
 ﻿# 05.Forcast Function (KaNa Foresight Dreams Remix)
 
 Forcast Function (KaNa Foresight Dreams Remix)【妖しき夢のラプソディー】ブクレシュティの人形師 (東方妖々夢) 東方ボーカルアレンジ歌詞

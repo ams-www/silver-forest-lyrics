@@ -1,3 +1,7 @@
+---
+related_people:
+  - さゆり
+---
 ﻿# 03.active emotion
 
 active emotion【東方秘封魔術】天空のグリニッジ 東方ボーカルアレンジ歌詞

@@ -1,3 +1,8 @@
+---
+related_people:
+  - なつみ
+  - アキ
+---
 ﻿# 01.snow memory
 
 snow memory【神の奏でしセレナーデ】夢殿大祀廟 (東方神霊廟) 東方ボーカルアレンジ歌詞

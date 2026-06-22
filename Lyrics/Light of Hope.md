@@ -1,3 +1,8 @@
+---
+related_people:
+  - さゆり
+  - 希
+---
 ﻿# 05.Light of Hope
 
 Light of Hope【蒼き月の鎮魂歌】東方ボーカルアレンジ歌詞

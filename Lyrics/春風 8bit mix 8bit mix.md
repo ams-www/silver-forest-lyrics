@@ -1,3 +1,7 @@
+---
+related_people:
+  - アキ
+---
 ﻿# 07.春風 8bit mix 8bit mix
 
 春風 8bit mix【東方蒼天歌】風の循環 東方ボーカルアレンジ歌詞

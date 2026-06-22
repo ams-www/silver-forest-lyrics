@@ -1,3 +1,8 @@
+---
+related_people:
+  - あやや
+  - 希
+---
 ﻿# 04.Legend of Ancient World
 
 Legend of Ancient World【永き夜のロンド】エクステンドアッシュ　〜 蓬莱人 月まで届け、不死の煙 東方ボーカルアレンジ歌詞

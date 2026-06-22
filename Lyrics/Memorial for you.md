@@ -1,3 +1,8 @@
+---
+related_people:
+  - MAI
+  - maicoro-phone
+---
 ﻿# 03.Memorial for you
 
 Memorial for you【感情エグゼキュージョン】シンデレラケージ (東方永夜抄) 東方ボーカルアレンジ歌詞

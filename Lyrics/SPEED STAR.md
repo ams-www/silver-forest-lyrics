@@ -1,3 +1,8 @@
+---
+related_people:
+  - Nana
+  - Takahashi
+---
 ﻿# 02.SPEED STAR
 
 SPEED STAR【東方夢想連歌】サニールチルフレクション 東方ボーカルアレンジ歌詞

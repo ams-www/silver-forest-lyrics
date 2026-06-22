@@ -1,3 +1,7 @@
+---
+related_people:
+  - さゆり
+---
 ﻿# 06.雷電 type33
 
 雷電 type33【東方Starry-Eyed】エネルギー黎明 東方ボーカルアレンジ歌詞

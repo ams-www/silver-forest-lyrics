@@ -1,3 +1,9 @@
+---
+related_people:
+  - アキ
+  - サリヤ人
+  - 希
+---
 ﻿# 02.BELIEVING
 
 BELIEVING【Plutinum Crest - thousand mirage】柳の下のデュラハン (東方輝針城) 東方ボーカルアレンジ歌詞

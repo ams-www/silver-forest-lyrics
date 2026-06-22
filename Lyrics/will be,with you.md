@@ -1,3 +1,11 @@
+---
+related_people:
+  - Fantom
+  - さきち
+  - 奏瀬いちこ
+  - 希
+  - 星河さきち
+---
 ﻿# 04.will be,with you
 
 will be,with you【Reversal Process】竹取飛翔　〜 Lunatic Princess (東方永夜抄) 東方ボーカルアレンジ歌詞

@@ -1,3 +1,7 @@
+---
+related_people:
+  - さゆり
+---
 ﻿# 04.we will turn on you
 
 we will turn on you【東方Starry-Eyed】法界の火 東方ボーカルアレンジ歌詞

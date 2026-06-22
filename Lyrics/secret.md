@@ -1,3 +1,8 @@
+---
+related_people:
+  - MAI
+  - maicoro-phone
+---
 ﻿# 01.secret
 
 secret【刹那 Over Drive】幻視の夜 (東方永夜抄) 東方ボーカルアレンジ歌詞

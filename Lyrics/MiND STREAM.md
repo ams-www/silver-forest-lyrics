@@ -1,3 +1,9 @@
+---
+related_people:
+  - Makinouta
+  - さきち
+  - 星河さきち
+---
 ﻿# 08.MiND STREAM
 
 MiND STREAM【Sweet little Lily】柳の下のデュラハン (東方輝針城) 東方ボーカルアレンジ歌詞

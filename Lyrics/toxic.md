@@ -1,3 +1,7 @@
+---
+related_people:
+  - なつみ
+---
 ﻿# 05.toxic
 
 toxic【三千世怪】ポイズンボディ　〜 Forsaken Doll (東方花映塚) 東方ボーカルアレンジ歌詞

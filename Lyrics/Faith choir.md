@@ -1,3 +1,10 @@
+---
+related_people:
+  - さきち
+  - 奏瀬いちこ
+  - 希
+  - 星河さきち
+---
 ﻿# 02.Faith choir
 
 Holy my Reincarnation【Sweet little Lily】夜雀の歌声、蠢々秋月 (東方永夜抄) 東方ボーカルアレンジ歌詞

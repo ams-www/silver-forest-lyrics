@@ -1,3 +1,8 @@
+---
+related_people:
+  - さゆり
+  - 希
+---
 ﻿# 09.Dieu le veult!
 
 Dieu le veult!【月光乱舞】魔法少女十字軍 東方ボーカルアレンジ歌詞

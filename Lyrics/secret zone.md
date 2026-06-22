@@ -1,3 +1,7 @@
+---
+related_people:
+  - なつみ
+---
 ﻿# 08.secret zone
 
 secret zone【三千世怪】神々が恋した幻想郷 (東方風神録) 東方ボーカルアレンジ歌詞

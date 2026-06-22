@@ -1,3 +1,7 @@
+---
+related_people:
+  - さゆり
+---
 ﻿# DISC6-09.Positive & Negative
 
 Positive & Negative【Silver Forest - 2006-2012 BEST2 DISC6】Positive and Negative (東方妖々夢) 東方ボーカルアレンジ歌詞

@@ -1,3 +1,7 @@
+---
+related_people:
+  - アキ
+---
 ﻿# 01.Eternal moon
 
 Eternal moon【東方萃奏楽】エクステンドアッシュ　〜 蓬莱人 東方ボーカルアレンジ歌詞

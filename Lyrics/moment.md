@@ -1,3 +1,10 @@
+---
+related_people:
+  - あやや
+  - さゆり
+  - なつみ
+  - アキ
+---
 ﻿# 08.moment
 
 moment【永き夜のロンドⅡ】千年幻想郷　～ History of the Moon 東方ボーカルアレンジ歌詞

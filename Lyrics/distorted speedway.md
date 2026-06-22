@@ -1,3 +1,7 @@
+---
+related_people:
+  - あやや
+---
 ﻿# 03.distorted speedway
 
 distorted speedway【三千世怪】旧地獄街道を行く (東方地霊殿) 東方ボーカルアレンジ歌詞

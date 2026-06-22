@@ -1,3 +1,7 @@
+---
+related_people:
+  - さゆり
+---
 ﻿# 02.iron strike
 
 iron strike【妖しき夢のラプソディー】東方妖々夢　〜 Ancient Temple 東方ボーカルアレンジ歌詞

@@ -1,3 +1,7 @@
+---
+related_people:
+  - 奏瀬いちこ
+---
 ﻿# 07.How to Cry
 
 How to Cry　【Reversal Process】凍り付いた永遠の都 -- ４面テーマ (東方紺珠伝) 東方ボーカルアレンジ歌詞

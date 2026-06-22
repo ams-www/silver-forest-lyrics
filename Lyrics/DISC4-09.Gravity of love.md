@@ -1,3 +1,7 @@
+---
+related_people:
+  - さゆり
+---
 ﻿# DISC4-09.Gravity of love
 
 Gravity of love【Silver Forest - 2006-2012 BEST2 DISC4】G Free (大空魔術) 東方ボーカルアレンジ歌詞

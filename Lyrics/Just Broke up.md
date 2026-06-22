@@ -1,3 +1,7 @@
+---
+related_people:
+  - サリヤ人
+---
 ﻿# 02.Just Broke up
 
 Just Broke up【Plutinum Crest - Just Broke up】メイガスナイト (妖精大戦争) 東方ボーカルアレンジ歌詞

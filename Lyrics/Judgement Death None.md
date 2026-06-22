@@ -1,3 +1,9 @@
+---
+related_people:
+  - なつみ
+  - アキ
+  - 希
+---
 ﻿# 04.Judgement Death None
 
 Judgement Death None【Ancient Blue】the Last Judgement,東方怪綺談 東方ボーカルアレンジ歌詞

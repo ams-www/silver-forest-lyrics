@@ -1,3 +1,9 @@
+---
+related_people:
+  - K-MASERA
+  - k-masera
+  - さゆり
+---
 ﻿# 04.Breath
 
 Breath【Vermillion Summer】フォールオブフォール (東方風神録) 東方ボーカルアレンジ歌詞

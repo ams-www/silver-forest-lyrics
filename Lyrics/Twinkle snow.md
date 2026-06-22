@@ -1,3 +1,7 @@
+---
+related_people:
+  - アキ
+---
 ﻿# 09.Twinkle snow
 
 Twinkle snow【永き夜のロンド】少女綺想曲　〜 Dream Battle 東方ボーカルアレンジ歌詞

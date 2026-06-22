@@ -1,3 +1,7 @@
+---
+related_people:
+  - なつみ
+---
 ﻿# 01.Fanatic Wind
 
 Fanatic Wind【東方ノスタルジア】風神少女 東方ボーカルアレンジ歌詞

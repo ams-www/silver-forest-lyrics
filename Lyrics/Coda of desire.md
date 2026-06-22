@@ -1,3 +1,7 @@
+---
+related_people:
+  - あやや
+---
 ﻿# 02.Coda of desire
 
 Coda of desire【神の奏でしセレナーデ】デザイアドライブ (東方神霊廟) 東方ボーカルアレンジ歌詞

@@ -1,3 +1,7 @@
+---
+related_people:
+  - あやや
+---
 ﻿# 08.glint in dark
 
 glint in dark【Ancient Blue】二色蓮花蝶　〜 Ancients,秋霜玉 東方ボーカルアレンジ歌詞

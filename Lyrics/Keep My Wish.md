@@ -1,3 +1,8 @@
+---
+related_people:
+  - Kana
+  - サリヤ人
+---
 ﻿# 07.Keep My Wish
 
 Keep My Wish【感情エグゼキュージョン】恋色マスタースパーク (東方永夜抄) 東方ボーカルアレンジ歌詞

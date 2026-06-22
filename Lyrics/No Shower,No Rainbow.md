@@ -1,3 +1,7 @@
+---
+related_people:
+  - ぷるめりあ
+---
 ﻿# 04.No Shower,No Rainbow
 
 No Shower,No Rainbow【Axis Planet - 艦隊これくたーⅡ】次発装填、再突入！ 艦これBGM歌詞

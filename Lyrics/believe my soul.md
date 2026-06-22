@@ -1,3 +1,13 @@
+---
+related_people:
+  - Fantom
+  - K-MASERA
+  - Nano
+  - k-masera
+  - なつみ
+  - スカーレットな迷彩
+  - 遊女
+---
 ﻿# 01.believe my soul
 
 believe my soul【Project.S】少女幻葬　〜 Necro-Fantasy, メイドと血の懐中時計 東方ボーカルアレンジ歌詞

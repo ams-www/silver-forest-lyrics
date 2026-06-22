@@ -1,3 +1,7 @@
+---
+related_people:
+  - さゆり
+---
 ﻿# 09.Phantasm Brigade - another side
 
 Phantasm Brigade - another side【Phantasm Brigade】ネクロファンタジア, 少女幻葬 東方ボーカルアレンジ歌詞

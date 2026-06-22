@@ -1,3 +1,7 @@
+---
+related_people:
+  - アキ
+---
 ﻿# 10.lucky fast girl
 
 lucky fast girl【三千世怪】フォールオブフォール　〜 秋めく滝 (東方風神録) 東方ボーカルアレンジ歌詞

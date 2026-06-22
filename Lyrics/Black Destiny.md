@@ -1,3 +1,7 @@
+---
+related_people:
+  - なつみ
+---
 ﻿# 02.Black Destiny
 
 Black Destiny【聖少女サクリファイス】運命のダークサイド 東方ボーカルアレンジ歌詞

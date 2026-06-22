@@ -1,3 +1,7 @@
+---
+related_people:
+  - さゆり
+---
 ﻿# 01.Guilty
 
 Guilty【Reincarnation】天狗が見ている 東方ボーカルアレンジ歌詞

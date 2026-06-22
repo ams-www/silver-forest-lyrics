@@ -1,3 +1,7 @@
+---
+related_people:
+  - さゆり
+---
 ﻿# 01.Lunatic Beat
 
 Lunatic Beat【Lunatic Beat】竹取飛翔 東方ボーカルアレンジ歌詞
