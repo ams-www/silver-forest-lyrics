@@ -11,7 +11,11 @@ for file_path in files:
     # 1行ずつ読み込んで、末尾に改行がなければ追加して、さらに空行を追加する
     new_lines = []
     for line in lines:
-        new_lines.append(line.rstrip() + '\n\n')
+        stripped = line.rstrip()
+        if stripped:
+            new_lines.append(stripped + '\n\n')
+        else:
+            new_lines.append('\n')
 
     with open(file_path, 'w', encoding='utf-8') as f:
         f.writelines(new_lines)
