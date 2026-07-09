@@ -1,0 +1,3 @@
+The file changes show modified lyrics files with quoted names containing special characters. Since these appear to be source/content files rather than build artifacts, dependencies, or temporary files, no additional ignore rules are needed.
+
+(empty)
