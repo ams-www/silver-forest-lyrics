@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ block "title" . }}{{ .Site.Title }}{{ end }} | SilForeFans</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="google-site-verification" content="uf3vxDGx2-PQ5UU1pRFAzTAK1_OXG95TYFh2MNt3w4E" />
+    <meta name="robots" content="{{ .Params.robots | default "index, follow" }}">
+    <link rel="canonical" href="{{ .Permalink }}">
+    <meta name='description' content='Silver Forest の {{ .Title }} に関する情報はいつもここから！SilForeFans だお～'>
+    <style>
+        /* 簡単な見た目の調整（自由に変えてね！） */
+/* ヘッダー専用スタイル：他に影響しないように .site-header を親にする */
+.site-header {
+  font-family: sans-serif;
+  max-width: 800px; /* ヘッダー幅を制限したいなら残す、不要なら削除 */
+  margin: 0 auto;
+  padding: 20px 0;
+}
+
+.site-header nav {
+  background: #f4f4f4;
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.site-header h1 {
+  margin: 0;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.site-header nav a {
+  text-decoration: none;
+  color: #007bff;
+  font-weight: bold;
+}
+
+.site-header nav a:hover {
+  text-decoration: underline;
+}
+.site-logo {
+    margin: 0;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+    </style>
+</head>
+<body>
+
+    <nav class="site-header">
+        <a href="{{ "/" | relURL }}" class="site-logo">SilForeFans</a>
+        <a href="{{ "/list/" | relURL }}">Site map</a>
+    </nav>
+
+    <main>
+        {{ block "main" . }}
+        {{ .Content }}
+        {{ end }}
+    </main>
+
+    <footer>
+        &copy; 2026 SilForFans
+    </footer>
+
+</body>
+</html>

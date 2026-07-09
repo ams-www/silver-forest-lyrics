@@ -1,0 +1,6 @@
+---
+title: "06.brand-new joybrand-new joy【悠久パラダイム】クリスタライズシルバー 東方ボーカルアレンジ歌詞【Silver Forest】ボーカル曲歌詞track06：brand-new joyoriginal：クリスタライズシルバーvocal：あややlyrics：Silver Forestarrange：Silver Forest会いたい気持ちがもどかしくて溢れる自分を押さえきれない求め合う想い君に伝えたくて今すぐ抱きしめキスをしたらI just wanna make you love 信じたい教えて欲しい あなたの想いをI know you got that fever 今だけは信じて欲しい 私の想いを世界がどんなに変わろうともいつもの笑顔が私を包む離れてる時も きっといつまでも２人で祈った願いだからI'll give you the brand-new joy 戻れないそばにいるだけ 寄り添い続けてI trust you when next to you 満たされてくこのまま強く 抱きしめて欲しい悲しいほどの愛しさ 見届けてきた時の終わりを いまでも信じていないずっと 今もI just wanna make you love 信じたい教えて欲しい あなたの想いをI know you got that fever 今だけは信じて欲しい 私の想いをI'll give you the brand-new joy"
+---
+
+﻿# 06.brand-new joybrand-new joy【悠久パラダイム】クリスタライズシルバー 東方ボーカルアレンジ歌詞【Silver Forest】ボーカル曲歌詞track06：brand-new joyoriginal：クリスタライズシルバーvocal：あややlyrics：Silver Forestarrange：Silver Forest会いたい気持ちがもどかしくて溢れる自分を押さえきれない求め合う想い君に伝えたくて今すぐ抱きしめキスをしたらI just wanna make you love 信じたい教えて欲しい あなたの想いをI know you got that fever 今だけは信じて欲しい 私の想いを世界がどんなに変わろうともいつもの笑顔が私を包む離れてる時も きっといつまでも２人で祈った願いだからI'll give you the brand-new joy 戻れないそばにいるだけ 寄り添い続けてI trust you when next to you 満たされてくこのまま強く 抱きしめて欲しい悲しいほどの愛しさ 見届けてきた時の終わりを いまでも信じていないずっと 今もI just wanna make you love 信じたい教えて欲しい あなたの想いをI know you got that fever 今だけは信じて欲しい 私の想いをI'll give you the brand-new joy
+

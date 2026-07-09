@@ -1,0 +1,6 @@
+---
+title: "07.GINROW-GINROW-【永き夜のロンド】エクステンドアッシュ　〜 蓬莱人 月まで届け、不死の煙 東方ボーカルアレンジ歌詞【Silver Forest】ボーカル曲歌詞track07：GINROW-原曲：狂気の瞳　〜 Invisible Full Moonlyrics：小川マキarrange：NYOvocal：あややHe sometimes barks in the midnight sunNobody knows where he will go onSomebody calls him “GINROW”Never gonna be the same “Desire & Dreams“ひび割れたアスファルトから運命が芽生えるように出逢ったその瞬間に射抜かれた愛が just begunどうぞ その牙で　Destroy me　壊して欲しい過去も　未来も　 Disappearance　今が欲しいのたとえ　世界と　 Decide for my life　決別しても狼のような その瞳　You’ve stolen my heart眠らぬsoul in the midnight sun白夜のような この街で冷えきった その眼差し絡み合う　Desire & Dreamsお気に召すまま Destroy me　身も心も　Free嘘も　虚像も　 Disappearance　リアルが欲しい絶望の 世界に　Decide for my life　爪を立てたい破滅の中に未来がある　You’ve stolen my heart"
+---
+
+﻿# 07.GINROW-GINROW-【永き夜のロンド】エクステンドアッシュ　〜 蓬莱人 月まで届け、不死の煙 東方ボーカルアレンジ歌詞【Silver Forest】ボーカル曲歌詞track07：GINROW-原曲：狂気の瞳　〜 Invisible Full Moonlyrics：小川マキarrange：NYOvocal：あややHe sometimes barks in the midnight sunNobody knows where he will go onSomebody calls him “GINROW”Never gonna be the same “Desire & Dreams“ひび割れたアスファルトから運命が芽生えるように出逢ったその瞬間に射抜かれた愛が just begunどうぞ その牙で　Destroy me　壊して欲しい過去も　未来も　 Disappearance　今が欲しいのたとえ　世界と　 Decide for my life　決別しても狼のような その瞳　You’ve stolen my heart眠らぬsoul in the midnight sun白夜のような この街で冷えきった その眼差し絡み合う　Desire & Dreamsお気に召すまま Destroy me　身も心も　Free嘘も　虚像も　 Disappearance　リアルが欲しい絶望の 世界に　Decide for my life　爪を立てたい破滅の中に未来がある　You’ve stolen my heart
+

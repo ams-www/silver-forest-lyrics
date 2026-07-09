@@ -1,0 +1,6 @@
+---
+title: "01.Slave to the Drivin'Slave to the Drivin'【紅き月のアリア】上海紅茶館　〜 Chinese Tea 東方ボーカルアレンジ歌詞【Silver Forest】ボーカル曲歌詞track01：Slave to the Drivin'原曲：上海紅茶館　〜 Chinese Tea (東方紅魔郷)lyrics：Silver Forestarrange：NYOvocal：あやや遥か彼方に目指すゴールを見据えている少年の手は 勇気一つを握りしめていたただ本能にその身を任せ未来へ激しく心をトキメかせてるアクセルを踏み込んで 風になれる魂というこの風包まれた It's my destinyブレーキが壊れても恐れないで突き進む先へとまだ続いてる It's my best way星の数ほど きっと未来は選べるはずそして『一つ』を見つけた時に迷いは消えゆくただ一瞬の輝きだけを欲しがり激しく心を突き動かしたアクセルを踏み込んで風になれば周りなんてもう今は見えないさIt's so farawayいつだってこの道にルールはなく恐いのは敗北より諦めてしまうことただ本能にその身を任せ未来へ激しく心をトキメかせてるアクセルを踏み込んで 風になれる魂というこの風包まれた It's my destinyブレーキが壊れても恐れないで突き進む先へとまだ続いてる It's my best way"
+---
+
+﻿# 01.Slave to the Drivin'Slave to the Drivin'【紅き月のアリア】上海紅茶館　〜 Chinese Tea 東方ボーカルアレンジ歌詞【Silver Forest】ボーカル曲歌詞track01：Slave to the Drivin'原曲：上海紅茶館　〜 Chinese Tea (東方紅魔郷)lyrics：Silver Forestarrange：NYOvocal：あやや遥か彼方に目指すゴールを見据えている少年の手は 勇気一つを握りしめていたただ本能にその身を任せ未来へ激しく心をトキメかせてるアクセルを踏み込んで 風になれる魂というこの風包まれた It's my destinyブレーキが壊れても恐れないで突き進む先へとまだ続いてる It's my best way星の数ほど きっと未来は選べるはずそして『一つ』を見つけた時に迷いは消えゆくただ一瞬の輝きだけを欲しがり激しく心を突き動かしたアクセルを踏み込んで風になれば周りなんてもう今は見えないさIt's so farawayいつだってこの道にルールはなく恐いのは敗北より諦めてしまうことただ本能にその身を任せ未来へ激しく心をトキメかせてるアクセルを踏み込んで 風になれる魂というこの風包まれた It's my destinyブレーキが壊れても恐れないで突き進む先へとまだ続いてる It's my best way
+
