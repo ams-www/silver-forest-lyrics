@@ -1,0 +1,6 @@
+---
+title: "09.believe my soul -SEbelieve my soul -SE【東方夢想連歌】少女幻葬 東方ボーカルアレンジ歌詞【Silver Forest】ボーカル曲歌詞track09：believe my soul -SEoriginal：少女幻葬　〜 Necro-Fantasy (東方妖々夢)vocal：さゆり  Nano  なつみ  Nana Takahashi  スカーレットな迷彩  k-masera  Fantomlyrics：NYOarrange：NYO思い切りやりきればいい　どんな事でもゴールに届く道なんて　いくらでもあるいつかは離れてしまう　仲間もいるけどだけどまだ色褪せてない　この瞬間　そう、今はah いつだって　I believe my soulまた会える事を　信じているから鮮やかに輝いた今を　ずっと忘れないでいたいこの歌を口ずさめばすぐ　思い出せるはずさどんな時でも二度とは戻らない今を　楽しめたならきっと忘れはしないだろう　今日という日をこの瞬間すべて忘れ　共に歌えば歌う声は届くだろう　遠く果てなく空へah 誰一人　欠けても　I believe my soulこのLIVEは存在しない心から奏でる想いを　歌に乗せ響かせたならきっとほら、手をつなぐように　心つながるから信じてるから鮮やかに輝いた今を　ずっと忘れないでいたいこの歌を口ずさめばすぐ　思い出せるはずさどんな時でも"
+---
+
+﻿# 09.believe my soul -SEbelieve my soul -SE【東方夢想連歌】少女幻葬 東方ボーカルアレンジ歌詞【Silver Forest】ボーカル曲歌詞track09：believe my soul -SEoriginal：少女幻葬　〜 Necro-Fantasy (東方妖々夢)vocal：さゆり  Nano  なつみ  Nana Takahashi  スカーレットな迷彩  k-masera  Fantomlyrics：NYOarrange：NYO思い切りやりきればいい　どんな事でもゴールに届く道なんて　いくらでもあるいつかは離れてしまう　仲間もいるけどだけどまだ色褪せてない　この瞬間　そう、今はah いつだって　I believe my soulまた会える事を　信じているから鮮やかに輝いた今を　ずっと忘れないでいたいこの歌を口ずさめばすぐ　思い出せるはずさどんな時でも二度とは戻らない今を　楽しめたならきっと忘れはしないだろう　今日という日をこの瞬間すべて忘れ　共に歌えば歌う声は届くだろう　遠く果てなく空へah 誰一人　欠けても　I believe my soulこのLIVEは存在しない心から奏でる想いを　歌に乗せ響かせたならきっとほら、手をつなぐように　心つながるから信じてるから鮮やかに輝いた今を　ずっと忘れないでいたいこの歌を口ずさめばすぐ　思い出せるはずさどんな時でも
+
