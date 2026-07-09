@@ -4,7 +4,7 @@
 
 <h2>コンテンツ一覧</h2>
 <ul>
-  {{ range site.Pages }}
+  {{ range site.RegularPages }}
     {{ if .Title }}
       <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
     {{ end }}
