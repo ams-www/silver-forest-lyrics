@@ -1,3 +1,7 @@
+---
+title: "Cosmic Truth"
+---
+
 ﻿# 09.Cosmic Truth
 
 

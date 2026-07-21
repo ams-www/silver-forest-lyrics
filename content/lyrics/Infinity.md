@@ -1,3 +1,7 @@
+---
+title: "Infinity"
+---
+
 ﻿# 07.Infinity
 
 

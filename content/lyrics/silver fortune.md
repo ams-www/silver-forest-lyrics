@@ -1,3 +1,7 @@
+---
+title: "silver fortune"
+---
+
 ﻿# 07.silver fortune
 
 

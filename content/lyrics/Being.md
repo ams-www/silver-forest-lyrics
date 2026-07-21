@@ -1,3 +1,7 @@
+---
+title: "Being"
+---
+
 ﻿# 06.Being
 
 

@@ -1,3 +1,7 @@
+---
+title: "Remind MachinE"
+---
+
 ﻿# 06.Remind MachinE
 
 

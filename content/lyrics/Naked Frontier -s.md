@@ -1,3 +1,7 @@
+---
+title: "Naked Frontier -s"
+---
+
 ﻿# 01.Naked Frontier -s
 
 

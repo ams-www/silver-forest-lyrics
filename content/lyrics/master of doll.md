@@ -1,3 +1,7 @@
+---
+title: "master of doll"
+---
+
 ﻿# 01.master of doll
 
 

@@ -1,3 +1,7 @@
+---
+title: "Life slider"
+---
+
 ﻿# 03.Life slider
 
 

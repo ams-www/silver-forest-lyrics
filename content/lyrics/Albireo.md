@@ -1,3 +1,7 @@
+---
+title: "Albireo"
+---
+
 ﻿# 04.Albireo
 
 

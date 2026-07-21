@@ -1,3 +1,7 @@
+---
+title: "connected"
+---
+
 ﻿# 05.connected
 
 

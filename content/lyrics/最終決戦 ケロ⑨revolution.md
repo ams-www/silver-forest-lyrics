@@ -1,3 +1,7 @@
+---
+title: "最終決戦 ケロ⑨revolution"
+---
+
 ﻿# 10.最終決戦 ケロ⑨revolution
 
 

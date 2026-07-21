@@ -1,3 +1,7 @@
+---
+title: "Black Destiny"
+---
+
 ﻿# 02.Black Destiny
 
 

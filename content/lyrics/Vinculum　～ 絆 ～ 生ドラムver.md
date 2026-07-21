@@ -1,3 +1,7 @@
+---
+title: "Vinculum　～ 絆 ～ 生ドラムver"
+---
+
 ﻿# 10.Vinculum　～ 絆 ～ 生ドラムver
 
 

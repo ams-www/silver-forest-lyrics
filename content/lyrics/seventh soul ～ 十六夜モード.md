@@ -1,3 +1,7 @@
+---
+title: "seventh soul ～ 十六夜モード"
+---
+
 ﻿# 03.seventh soul ～ 十六夜モード
 
 

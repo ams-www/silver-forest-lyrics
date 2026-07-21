@@ -1,3 +1,7 @@
+---
+title: "Sentence"
+---
+
 ﻿# 01.Sentence
 
 

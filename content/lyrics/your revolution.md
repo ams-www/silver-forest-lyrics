@@ -1,3 +1,7 @@
+---
+title: "your revolution"
+---
+
 ﻿# 06.your revolution
 
 

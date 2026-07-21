@@ -1,3 +1,7 @@
+---
+title: "MiND STREAM"
+---
+
 ﻿# 08.MiND STREAM
 
 

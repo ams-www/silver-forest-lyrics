@@ -1,3 +1,7 @@
+---
+title: "Forcast Function (KaNa Foresight Dreams Remix)"
+---
+
 ﻿# 05.Forcast Function (KaNa Foresight Dreams Remix)
 
 

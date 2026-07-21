@@ -1,3 +1,7 @@
+---
+title: "tender trap"
+---
+
 ﻿# 06.tender trap
 
 

@@ -1,3 +1,7 @@
+---
+title: "brand-new joy"
+---
+
 ﻿# 06.brand-new joy
 
 

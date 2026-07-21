@@ -1,3 +1,7 @@
+---
+title: "Cliche"
+---
+
 ﻿# 08.Cliche
 
 

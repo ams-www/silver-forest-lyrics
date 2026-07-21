@@ -1,3 +1,7 @@
+---
+title: "Bad AppleⅡ"
+---
+
 ﻿# 03.Bad AppleⅡ
 
 

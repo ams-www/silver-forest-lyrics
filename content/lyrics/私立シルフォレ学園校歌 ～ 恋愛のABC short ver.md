@@ -1,3 +1,7 @@
+---
+title: "私立シルフォレ学園校歌 ～ 恋愛のABC short ver"
+---
+
 ﻿# 07.私立シルフォレ学園校歌 ～ 恋愛のABC short ver
 
 

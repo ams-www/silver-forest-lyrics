@@ -1,3 +1,7 @@
+---
+title: "60's wind - stars"
+---
+
 ﻿# 02.60's wind - stars
 
 

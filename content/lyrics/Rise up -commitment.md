@@ -1,3 +1,7 @@
+---
+title: "Rise up -commitment"
+---
+
 ﻿# 08.Rise up -commitment
 
 

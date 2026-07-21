@@ -1,3 +1,7 @@
+---
+title: "the lost"
+---
+
 ﻿# 06.the lost
 
 

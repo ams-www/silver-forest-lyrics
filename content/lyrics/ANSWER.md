@@ -1,3 +1,7 @@
+---
+title: "ANSWER"
+---
+
 ﻿# 06.ANSWER
 
 

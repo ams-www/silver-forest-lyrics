@@ -1,3 +1,7 @@
+---
+title: "少女狂想曲　～ Drunk Bottle"
+---
+
 ﻿# 08.少女狂想曲　～ Drunk Bottle
 
 

@@ -1,3 +1,7 @@
+---
+title: "Lunatic Beat"
+---
+
 ﻿# 01.Lunatic Beat
 
 

@@ -1,3 +1,7 @@
+---
+title: "Lunatic Blue"
+---
+
 ﻿# 01.Lunatic Blue
 
 

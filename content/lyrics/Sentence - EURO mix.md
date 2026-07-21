@@ -1,3 +1,7 @@
+---
+title: "Sentence - EURO mix"
+---
+
 ﻿# 07.Sentence - EURO mix
 
 

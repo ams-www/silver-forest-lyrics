@@ -1,3 +1,7 @@
+---
+title: "fair wind"
+---
+
 ﻿# 06.fair wind
 
 

@@ -1,3 +1,7 @@
+---
+title: "Lunatic EURO"
+---
+
 ﻿# 02.Lunatic EURO
 
 

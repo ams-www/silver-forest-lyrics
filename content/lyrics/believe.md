@@ -1,3 +1,7 @@
+---
+title: "believe"
+---
+
 ﻿# 06.believe
 
 

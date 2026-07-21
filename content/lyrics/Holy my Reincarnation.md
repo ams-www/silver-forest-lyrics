@@ -1,3 +1,7 @@
+---
+title: "Holy my Reincarnation"
+---
+
 ﻿# 02.Holy my Reincarnation
 
 

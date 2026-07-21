@@ -1,3 +1,7 @@
+---
+title: "mind slave"
+---
+
 ﻿# 04.mind slave
 
 

@@ -1,3 +1,7 @@
+---
+title: "mad apple"
+---
+
 ﻿# 07.mad apple
 
 

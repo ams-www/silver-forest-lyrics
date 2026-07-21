@@ -1,3 +1,7 @@
+---
+title: "Naked Frontier"
+---
+
 ﻿# 05.Naked Frontier
 
 

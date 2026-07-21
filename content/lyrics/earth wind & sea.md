@@ -1,3 +1,7 @@
+---
+title: "earth wind & sea"
+---
+
 ﻿# 07.earth wind & sea
 
 

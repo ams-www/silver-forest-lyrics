@@ -1,3 +1,7 @@
+---
+title: "second star"
+---
+
 ﻿# 04.second star
 
 

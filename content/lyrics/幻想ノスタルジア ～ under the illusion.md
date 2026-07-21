@@ -1,3 +1,7 @@
+---
+title: "幻想ノスタルジア ～ under the illusion"
+---
+
 ﻿# 02.幻想ノスタルジア ～ under the illusion
 
 

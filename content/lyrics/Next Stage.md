@@ -1,3 +1,7 @@
+---
+title: "Next Stage"
+---
+
 ﻿# 05.Next Stage
 
 

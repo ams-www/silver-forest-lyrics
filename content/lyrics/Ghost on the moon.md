@@ -1,3 +1,7 @@
+---
+title: "Ghost on the moon"
+---
+
 ﻿# 07.Ghost on the moon
 
 

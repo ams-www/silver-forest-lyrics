@@ -1,3 +1,7 @@
+---
+title: "lost knowledge"
+---
+
 ﻿# 08.lost knowledge
 
 

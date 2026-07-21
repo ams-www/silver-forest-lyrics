@@ -1,3 +1,7 @@
+---
+title: "Fanatic Wind"
+---
+
 ﻿# 01.Fanatic Wind
 
 

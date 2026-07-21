@@ -1,3 +1,7 @@
+---
+title: "stay gold"
+---
+
 ﻿# 08.stay gold
 
 

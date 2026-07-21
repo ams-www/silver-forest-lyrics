@@ -1,3 +1,7 @@
+---
+title: "Phantasm Brigade"
+---
+
 ﻿# 02.Phantasm Brigade
 
 

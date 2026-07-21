@@ -1,3 +1,7 @@
+---
+title: "active emotion"
+---
+
 ﻿# 03.active emotion
 
 

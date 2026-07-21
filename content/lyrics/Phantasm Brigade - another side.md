@@ -1,3 +1,7 @@
+---
+title: "Phantasm Brigade - another side"
+---
+
 ﻿# 09.Phantasm Brigade - another side
 
 

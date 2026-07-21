@@ -1,3 +1,7 @@
+---
+title: "eternal"
+---
+
 ﻿# 08.eternal
 
 

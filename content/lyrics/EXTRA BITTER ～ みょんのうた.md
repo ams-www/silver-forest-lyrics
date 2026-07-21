@@ -1,3 +1,7 @@
+---
+title: "EXTRA BITTER ～ みょんのうた"
+---
+
 ﻿# 03.EXTRA BITTER ～ みょんのうた
 
 

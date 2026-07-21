@@ -1,3 +1,7 @@
+---
+title: "博麗神主 ZUN＆bear"
+---
+
 ﻿# 09.博麗神主 ZUN＆bear
 
 
