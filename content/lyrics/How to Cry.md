@@ -1,5 +1,6 @@
 ---
 title: "How to Cry"
+tags: ["奏瀬いちこ"]
 ---
 
 ﻿# 07.How to Cry

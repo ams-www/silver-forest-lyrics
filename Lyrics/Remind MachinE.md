@@ -1,3 +1,7 @@
+---
+title: "Remind MachinE"
+tags: ["奏瀬いちこ"]
+---
 ﻿# 06.Remind MachinE
 
 

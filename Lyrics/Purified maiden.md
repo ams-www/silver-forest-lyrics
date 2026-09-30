@@ -1,3 +1,7 @@
+---
+title: "Purified maiden"
+tags: ["奏瀬いちこ"]
+---
 ﻿# 03.Purified maiden
 
 

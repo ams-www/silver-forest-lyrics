@@ -1,3 +1,7 @@
+---
+title: "SecrET CRowN"
+tags: ["奏瀬いちこ"]
+---
 ﻿# 05.SecrET CRowN
 
 

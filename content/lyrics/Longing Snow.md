@@ -1,5 +1,6 @@
 ---
 title: "Longing Snow"
+tags: ["奏瀬いちこ"]
 ---
 
 ﻿# 05.Longing Snow
