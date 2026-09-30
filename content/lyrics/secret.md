@@ -1,5 +1,6 @@
 ---
 title: "secret"
+tags: ["maicoro-phone"]
 ---
 
 ﻿# 01.secret

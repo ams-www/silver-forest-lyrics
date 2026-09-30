@@ -1,5 +1,6 @@
 ---
 title: "Red end"
+tags: ["maicoro-phone"]
 ---
 
 ﻿# 01.Red end

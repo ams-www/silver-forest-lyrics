@@ -1,3 +1,8 @@
+---
+title: "not yet…"
+tags: ["maicoro-phone"]
+---
+
 ﻿# 02.not yet…
 
 

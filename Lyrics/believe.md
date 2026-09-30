@@ -1,3 +1,8 @@
+---
+title: "believe"
+tags: ["maicoro-phone"]
+---
+
 ﻿# 06.believe
 
 
