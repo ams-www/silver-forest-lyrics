@@ -21,6 +21,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Add person tags
+        run: python3 scripts/add-person-tags.py
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
