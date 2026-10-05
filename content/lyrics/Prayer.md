@@ -1,6 +1,6 @@
 ---
 title: "Prayer"
-tags: ["NYO"]
+tags: ["NYO", "アキ"]
 ---
 
 ﻿# 06.Prayer

@@ -1,6 +1,6 @@
 ---
 title: "Twinkle snow"
-tags: ["NYO"]
+tags: ["NYO", "アキ"]
 ---
 
 ﻿# 09.Twinkle snow

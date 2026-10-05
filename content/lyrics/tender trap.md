@@ -1,5 +1,6 @@
 ---
 title: "tender trap"
+tags: ["アキ"]
 ---
 
 ﻿# 06.tender trap

@@ -1,6 +1,6 @@
 ---
 title: "I'll"
-tags: ["NYO"]
+tags: ["NYO", "アキ"]
 ---
 
 ﻿# 10.I'll

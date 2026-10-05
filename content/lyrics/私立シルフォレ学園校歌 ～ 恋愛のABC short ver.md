@@ -1,6 +1,6 @@
 ---
 title: "私立シルフォレ学園校歌 ～ 恋愛のABC short ver"
-tags: ["なつみ", "NYO"]
+tags: ["なつみ", "NYO", "アキ"]
 ---
 
 ﻿# 07.私立シルフォレ学園校歌 ～ 恋愛のABC short ver

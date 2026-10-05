@@ -1,5 +1,6 @@
 ---
 title: "Rise up -commitment"
+tags: ["星河さきち"]
 ---
 
 ﻿# 08.Rise up -commitment

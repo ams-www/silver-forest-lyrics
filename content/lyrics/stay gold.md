@@ -1,6 +1,6 @@
 ---
 title: "stay gold"
-tags: ["NYO"]
+tags: ["NYO", "アキ"]
 ---
 
 ﻿# 08.stay gold

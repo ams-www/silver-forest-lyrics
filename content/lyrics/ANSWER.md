@@ -1,5 +1,6 @@
 ---
 title: "ANSWER"
+tags: ["星河さきち"]
 ---
 
 ﻿# 06.ANSWER

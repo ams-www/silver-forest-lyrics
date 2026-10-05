@@ -1,6 +1,6 @@
 ---
 title: "Faith choir"
-tags: ["奏瀬いちこ", "NYO"]
+tags: ["奏瀬いちこ", "NYO", "星河さきち"]
 ---
 
 ﻿# 02.Faith choir

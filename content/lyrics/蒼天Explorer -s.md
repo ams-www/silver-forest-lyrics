@@ -1,5 +1,6 @@
 ---
 title: "蒼天Explorer -s"
+tags: ["アキ", "星河さきち"]
 ---
 
 ﻿# 05.蒼天Explorer -s

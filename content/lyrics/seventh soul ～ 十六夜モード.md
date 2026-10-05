@@ -1,6 +1,6 @@
 ---
 title: "seventh soul ～ 十六夜モード"
-tags: ["NYO"]
+tags: ["NYO", "アキ"]
 ---
 
 ﻿# 03.seventh soul ～ 十六夜モード

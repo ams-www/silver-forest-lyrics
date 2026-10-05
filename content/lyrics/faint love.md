@@ -1,5 +1,6 @@
 ---
 title: "faint love"
+tags: ["アキ"]
 ---
 
 ﻿# 09.faint love

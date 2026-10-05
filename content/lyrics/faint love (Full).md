@@ -1,5 +1,6 @@
 ---
 title: "faint love (Full)"
+tags: ["アキ"]
 ---
 
 ﻿# 05.faint love (Full)

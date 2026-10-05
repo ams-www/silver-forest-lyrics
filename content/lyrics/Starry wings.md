@@ -1,6 +1,6 @@
 ---
 title: "Starry wings"
-tags: ["NYO"]
+tags: ["NYO", "アキ"]
 ---
 
 ﻿# 03.Starry wings
