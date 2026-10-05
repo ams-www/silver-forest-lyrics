@@ -1,6 +1,6 @@
 ---
 title: "Sacred"
-tags: ["NYO"]
+tags: ["NYO", "アキ"]
 ---
 
 ﻿# 01.Sacred

@@ -1,5 +1,6 @@
 ---
 title: "蒼天Explorer"
+tags: ["アキ", "星河さきち"]
 ---
 
 ﻿# 07.蒼天Explorer

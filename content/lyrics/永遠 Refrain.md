@@ -1,5 +1,6 @@
 ---
 title: "永遠 Refrain"
+tags: ["アキ"]
 ---
 
 ﻿# 06.永遠 Refrain

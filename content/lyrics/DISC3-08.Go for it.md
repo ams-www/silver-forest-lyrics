@@ -1,6 +1,6 @@
 ---
 title: "DISC3-08.Go for it"
-tags: ["NYO"]
+tags: ["NYO", "アキ"]
 ---
 
 ﻿# DISC3-08.Go for it

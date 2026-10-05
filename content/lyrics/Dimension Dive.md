@@ -1,5 +1,6 @@
 ---
 title: "Dimension Dive"
+tags: ["星河さきち"]
 ---
 
 ﻿# 06.Dimension Dive

@@ -1,6 +1,6 @@
 ---
 title: "moment"
-tags: ["さゆり", "なつみ", "NYO"]
+tags: ["さゆり", "なつみ", "NYO", "アキ"]
 ---
 
 ﻿# 08.moment

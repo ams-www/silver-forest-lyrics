@@ -1,6 +1,6 @@
 ---
 title: "HONEY"
-tags: ["NYO"]
+tags: ["NYO", "アキ"]
 ---
 
 ﻿# 09.HONEY

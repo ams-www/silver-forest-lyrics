@@ -1,5 +1,6 @@
 ---
 title: "少女狂想曲　～ Drunk Bottle"
+tags: ["アキ"]
 ---
 
 ﻿# 08.少女狂想曲　～ Drunk Bottle

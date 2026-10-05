@@ -1,6 +1,6 @@
 ---
 title: "Goody Days"
-tags: ["奏瀬いちこ"]
+tags: ["奏瀬いちこ", "アキ", "星河さきち"]
 ---
 
 ﻿# 09.Goody Days

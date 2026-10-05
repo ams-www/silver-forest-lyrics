@@ -1,6 +1,6 @@
 ---
 title: "ancient days"
-tags: ["NYO"]
+tags: ["NYO", "アキ"]
 ---
 
 ﻿# 03.ancient days

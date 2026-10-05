@@ -1,6 +1,6 @@
 ---
 title: "7 days a week"
-tags: ["NYO"]
+tags: ["NYO", "アキ"]
 ---
 
 ﻿# 01.7 days a week

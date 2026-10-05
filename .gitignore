@@ -1,1 +1,2 @@
-(empty)
+# Hugo build lock file
+.hugo_build.lock

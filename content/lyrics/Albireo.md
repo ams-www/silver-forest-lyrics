@@ -1,6 +1,6 @@
 ---
 title: "Albireo"
-tags: ["NYO"]
+tags: ["NYO", "アキ"]
 ---
 
 ﻿# 04.Albireo

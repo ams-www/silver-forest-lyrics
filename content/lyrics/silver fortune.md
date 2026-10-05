@@ -1,5 +1,6 @@
 ---
 title: "silver fortune"
+tags: ["アキ"]
 ---
 
 ﻿# 07.silver fortune

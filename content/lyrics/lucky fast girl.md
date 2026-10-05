@@ -1,6 +1,6 @@
 ---
 title: "lucky fast girl"
-tags: ["NYO"]
+tags: ["NYO", "アキ"]
 ---
 
 ﻿# 10.lucky fast girl
