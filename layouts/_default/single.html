@@ -2,11 +2,11 @@
 <article>
     <h1>{{ .Title }}</h1>
 
-    {{ with .GetTerms "tags" }}
+    {{ with $tags := .GetTerms "tags" }}
     <nav aria-label="タグ">
         <strong>タグ:</strong>
-        {{ range . }}
-        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ if ne . (index ($.GetTerms "tags") (sub (len ($.GetTerms "tags")) 1)) }}{{ end }}
+        {{ range $index, $tag := $tags }}
+        {{ if $index }}, {{ end }}<a href="{{ $tag.RelPermalink }}">{{ $tag.LinkTitle }}</a>
         {{ end }}
     </nav>
     {{ end }}
