@@ -1,6 +1,6 @@
 ---
 title: "Reversal Process"
-tags: ["奏瀬いちこ"]
+tags: ["奏瀬いちこ", "NYO"]
 ---
 
 ﻿# 02.Reversal Process

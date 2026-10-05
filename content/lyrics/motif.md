@@ -1,5 +1,6 @@
 ---
 title: "motif"
+tags: ["さゆり", "NYO"]
 ---
 
 ﻿# 05.motif

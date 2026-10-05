@@ -1,5 +1,6 @@
 ---
 title: "DISC4-09.Gravity of love"
+tags: ["さゆり", "NYO"]
 ---
 
 ﻿# DISC4-09.Gravity of love

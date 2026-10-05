@@ -1,5 +1,6 @@
 ---
 title: "Vinculum　～ 絆 ～"
+tags: ["さゆり"]
 ---
 
 ﻿# 02.Vinculum　～ 絆 ～

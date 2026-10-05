@@ -1,5 +1,6 @@
 ---
 title: "7 days a week"
+tags: ["NYO"]
 ---
 
 ﻿# 01.7 days a week

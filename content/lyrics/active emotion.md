@@ -1,5 +1,6 @@
 ---
 title: "active emotion"
+tags: ["さゆり", "NYO"]
 ---
 
 ﻿# 03.active emotion

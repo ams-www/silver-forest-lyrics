@@ -1,5 +1,6 @@
 ---
 title: "master of doll"
+tags: ["さゆり", "NYO"]
 ---
 
 ﻿# 01.master of doll

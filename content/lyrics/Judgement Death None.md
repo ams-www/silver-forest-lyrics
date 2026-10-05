@@ -1,5 +1,6 @@
 ---
 title: "Judgement Death None"
+tags: ["なつみ", "NYO"]
 ---
 
 ﻿# 04.Judgement Death None

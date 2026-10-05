@@ -1,5 +1,6 @@
 ---
 title: "mad apple"
+tags: ["なつみ"]
 ---
 
 ﻿# 07.mad apple

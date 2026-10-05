@@ -1,5 +1,6 @@
 ---
 title: "Ever… carry on"
+tags: ["さゆり"]
 ---
 
 ﻿# 02.Ever… carry on

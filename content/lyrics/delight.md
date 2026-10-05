@@ -1,5 +1,6 @@
 ---
 title: "delight"
+tags: ["なつみ", "NYO"]
 ---
 
 ﻿# 03.delight

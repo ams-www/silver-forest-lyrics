@@ -1,5 +1,6 @@
 ---
 title: "Lunatic Beat"
+tags: ["さゆり", "NYO"]
 ---
 
 ﻿# 01.Lunatic Beat

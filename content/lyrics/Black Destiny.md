@@ -1,5 +1,6 @@
 ---
 title: "Black Destiny"
+tags: ["なつみ"]
 ---
 
 ﻿# 02.Black Destiny

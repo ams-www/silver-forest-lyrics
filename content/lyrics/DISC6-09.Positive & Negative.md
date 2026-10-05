@@ -1,5 +1,6 @@
 ---
 title: "DISC6-09.Positive & Negative"
+tags: ["さゆり", "NYO"]
 ---
 
 ﻿# DISC6-09.Positive & Negative

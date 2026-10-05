@@ -1,5 +1,6 @@
 ---
 title: "Holy my Reincarnation"
+tags: ["なつみ", "NYO"]
 ---
 
 ﻿# 02.Holy my Reincarnation

@@ -1,5 +1,6 @@
 ---
 title: "more than cross"
+tags: ["さゆり", "NYO"]
 ---
 
 ﻿# 05.more than cross

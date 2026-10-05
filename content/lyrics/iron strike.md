@@ -1,5 +1,6 @@
 ---
 title: "iron strike"
+tags: ["さゆり", "NYO"]
 ---
 
 ﻿# 02.iron strike

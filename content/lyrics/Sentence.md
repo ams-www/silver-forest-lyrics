@@ -1,5 +1,6 @@
 ---
 title: "Sentence"
+tags: ["さゆり", "NYO"]
 ---
 
 ﻿# 01.Sentence

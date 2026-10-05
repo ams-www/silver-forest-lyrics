@@ -1,5 +1,6 @@
 ---
 title: "toxic"
+tags: ["なつみ", "NYO"]
 ---
 
 ﻿# 05.toxic

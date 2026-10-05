@@ -1,5 +1,6 @@
 ---
 title: "博麗神主 ZUN＆bear"
+tags: ["NYO"]
 ---
 
 ﻿# 09.博麗神主 ZUN＆bear

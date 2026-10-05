@@ -1,6 +1,6 @@
 ---
 title: "How to Cry"
-tags: ["奏瀬いちこ"]
+tags: ["奏瀬いちこ", "NYO"]
 ---
 
 ﻿# 07.How to Cry

@@ -1,5 +1,6 @@
 ---
 title: "DISC3-08.Go for it"
+tags: ["NYO"]
 ---
 
 ﻿# DISC3-08.Go for it

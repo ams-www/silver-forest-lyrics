@@ -1,5 +1,6 @@
 ---
 title: "Eternal moon"
+tags: ["NYO"]
 ---
 
 ﻿# 01.Eternal moon

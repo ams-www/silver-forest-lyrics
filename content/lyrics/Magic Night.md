@@ -1,5 +1,6 @@
 ---
 title: "Magic Night"
+tags: ["なつみ"]
 ---
 
 ﻿# 03.Magic Night

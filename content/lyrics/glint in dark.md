@@ -1,5 +1,6 @@
 ---
 title: "glint in dark"
+tags: ["NYO"]
 ---
 
 ﻿# 08.glint in dark

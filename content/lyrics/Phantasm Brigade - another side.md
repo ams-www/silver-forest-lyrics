@@ -1,5 +1,6 @@
 ---
 title: "Phantasm Brigade - another side"
+tags: ["さゆり", "NYO"]
 ---
 
 ﻿# 09.Phantasm Brigade - another side

@@ -1,5 +1,6 @@
 ---
 title: "Dieu le veult!"
+tags: ["さゆり"]
 ---
 
 ﻿# 09.Dieu le veult!

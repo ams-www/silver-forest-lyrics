@@ -1,5 +1,6 @@
 ---
 title: "So far away"
+tags: ["さゆり", "NYO"]
 ---
 
 ﻿# 03.So far away

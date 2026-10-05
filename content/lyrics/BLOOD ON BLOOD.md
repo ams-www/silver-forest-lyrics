@@ -1,5 +1,6 @@
 ---
 title: "BLOOD ON BLOOD"
+tags: ["さゆり", "NYO"]
 ---
 
 ﻿# 02.BLOOD ON BLOOD

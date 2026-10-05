@@ -1,5 +1,6 @@
 ---
 title: "sweet little sister"
+tags: ["さゆり", "NYO"]
 ---
 
 ﻿# 02.sweet little sister

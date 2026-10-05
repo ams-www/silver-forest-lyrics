@@ -1,5 +1,6 @@
 ---
 title: "Blurry 90's soul"
+tags: ["さゆり"]
 ---
 
 ﻿# 05.Blurry 90's soul

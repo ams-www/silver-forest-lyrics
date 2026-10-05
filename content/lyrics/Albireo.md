@@ -1,5 +1,6 @@
 ---
 title: "Albireo"
+tags: ["NYO"]
 ---
 
 ﻿# 04.Albireo

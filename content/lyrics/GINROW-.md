@@ -1,5 +1,6 @@
 ---
 title: "GINROW-"
+tags: ["NYO"]
 ---
 
 ﻿# 07.GINROW-

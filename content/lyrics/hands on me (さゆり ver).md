@@ -1,5 +1,6 @@
 ---
 title: "hands on me (さゆり ver)"
+tags: ["さゆり", "NYO"]
 ---
 
 ﻿# 05.hands on me (さゆり ver)

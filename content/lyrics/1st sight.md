@@ -1,5 +1,6 @@
 ---
 title: "1st sight"
+tags: ["さゆり", "NYO"]
 ---
 
 ﻿# 01.1st sight

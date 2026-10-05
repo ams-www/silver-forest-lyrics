@@ -1,5 +1,6 @@
 ---
 title: "Sentence - EURO mix"
+tags: ["NYO"]
 ---
 
 ﻿# 07.Sentence - EURO mix

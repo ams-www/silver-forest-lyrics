@@ -1,5 +1,6 @@
 ---
 title: "深淵なる闇の彼方 (Nano ver)"
+tags: ["なつみ", "NYO"]
 ---
 
 ﻿# 07.深淵なる闇の彼方 (Nano ver)

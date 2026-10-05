@@ -1,5 +1,6 @@
 ---
 title: "⑨destiny ～ ずっとチルノのターン"
+tags: ["NYO"]
 ---
 
 ﻿# 09.⑨destiny ～ ずっとチルノのターン

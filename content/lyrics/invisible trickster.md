@@ -1,5 +1,6 @@
 ---
 title: "invisible trickster"
+tags: ["さゆり", "NYO"]
 ---
 
 ﻿# 02.invisible trickster

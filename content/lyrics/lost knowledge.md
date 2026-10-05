@@ -1,5 +1,6 @@
 ---
 title: "lost knowledge"
+tags: ["なつみ"]
 ---
 
 ﻿# 08.lost knowledge

@@ -1,5 +1,6 @@
 ---
 title: "ケロ⑨destiny"
+tags: ["NYO"]
 ---
 
 ﻿# 10.ケロ⑨destiny

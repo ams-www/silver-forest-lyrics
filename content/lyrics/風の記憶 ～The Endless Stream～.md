@@ -1,5 +1,6 @@
 ---
 title: "風の記憶 ～The Endless Stream～"
+tags: ["さゆり"]
 ---
 
 ﻿# 04.風の記憶 ～The Endless Stream～

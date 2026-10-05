@@ -1,5 +1,6 @@
 ---
 title: "Fanatic Wind"
+tags: ["なつみ", "NYO"]
 ---
 
 ﻿# 01.Fanatic Wind

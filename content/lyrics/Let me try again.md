@@ -1,5 +1,6 @@
 ---
 title: "Let me try again"
+tags: ["NYO"]
 ---
 
 ﻿# 03.Let me try again

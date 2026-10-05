@@ -1,5 +1,6 @@
 ---
 title: "EXTRA BITTER ～ みょんのうた"
+tags: ["NYO"]
 ---
 
 ﻿# 03.EXTRA BITTER ～ みょんのうた

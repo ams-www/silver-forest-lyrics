@@ -1,5 +1,6 @@
 ---
 title: "everlasting"
+tags: ["さゆり", "NYO"]
 ---
 
 ﻿# 09.everlasting

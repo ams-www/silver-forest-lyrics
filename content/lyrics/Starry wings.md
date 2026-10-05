@@ -1,5 +1,6 @@
 ---
 title: "Starry wings"
+tags: ["NYO"]
 ---
 
 ﻿# 03.Starry wings

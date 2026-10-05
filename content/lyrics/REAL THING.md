@@ -1,5 +1,6 @@
 ---
 title: "REAL THING"
+tags: ["なつみ"]
 ---
 
 ﻿# 09.REAL THING

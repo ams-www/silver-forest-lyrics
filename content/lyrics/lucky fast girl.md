@@ -1,5 +1,6 @@
 ---
 title: "lucky fast girl"
+tags: ["NYO"]
 ---
 
 ﻿# 10.lucky fast girl

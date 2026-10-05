@@ -1,5 +1,6 @@
 ---
 title: "Lunatic Blue"
+tags: ["さゆり"]
 ---
 
 ﻿# 01.Lunatic Blue

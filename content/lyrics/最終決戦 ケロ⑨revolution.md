@@ -1,5 +1,6 @@
 ---
 title: "最終決戦 ケロ⑨revolution"
+tags: ["なつみ", "NYO"]
 ---
 
 ﻿# 10.最終決戦 ケロ⑨revolution

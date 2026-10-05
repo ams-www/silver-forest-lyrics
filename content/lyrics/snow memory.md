@@ -1,5 +1,6 @@
 ---
 title: "snow memory"
+tags: ["なつみ", "NYO"]
 ---
 
 ﻿# 01.snow memory

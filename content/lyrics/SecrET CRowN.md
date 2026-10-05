@@ -1,6 +1,6 @@
 ---
 title: "SecrET CRowN"
-tags: ["奏瀬いちこ"]
+tags: ["奏瀬いちこ", "NYO"]
 ---
 
 ﻿# 05.SecrET CRowN

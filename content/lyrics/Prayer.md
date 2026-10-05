@@ -1,5 +1,6 @@
 ---
 title: "Prayer"
+tags: ["NYO"]
 ---
 
 ﻿# 06.Prayer

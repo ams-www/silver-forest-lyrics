@@ -1,5 +1,6 @@
 ---
 title: "Infinity"
+tags: ["さゆり", "NYO"]
 ---
 
 ﻿# 07.Infinity

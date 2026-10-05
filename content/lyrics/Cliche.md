@@ -1,5 +1,6 @@
 ---
 title: "Cliche"
+tags: ["さゆり"]
 ---
 
 ﻿# 08.Cliche

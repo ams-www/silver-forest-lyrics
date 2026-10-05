@@ -1,5 +1,6 @@
 ---
 title: "eternal"
+tags: ["なつみ", "NYO"]
 ---
 
 ﻿# 08.eternal
