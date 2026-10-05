@@ -1,6 +1,16 @@
 {{ define "main" }}
 <article>
     <h1>{{ .Title }}</h1>
+
+    {{ with .GetTerms "tags" }}
+    <nav aria-label="タグ">
+        <strong>タグ:</strong>
+        {{ range . }}
+        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ if ne . (index ($.GetTerms "tags") (sub (len ($.GetTerms "tags")) 1)) }}{{ end }}
+        {{ end }}
+    </nav>
+    {{ end }}
+
     {{ .Content }}
 </article>
 {{ end }}
