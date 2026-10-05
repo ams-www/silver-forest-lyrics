@@ -1,5 +1,6 @@
 ---
 title: "Goody Days"
+tags: ["奏瀬いちこ"]
 ---
 
 ﻿# 09.Goody Days

@@ -1,5 +1,6 @@
 ---
 title: "sky"
+tags: ["maicoro-phone"]
 ---
 
 ﻿# 05.sky

@@ -1,3 +1,7 @@
+---
+title: "Soul Sprinter"
+tags: ["奏瀬いちこ"]
+---
 ﻿# 05.Soul Sprinter
 
 

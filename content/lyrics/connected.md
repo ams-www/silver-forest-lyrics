@@ -1,5 +1,6 @@
 ---
 title: "connected"
+tags: ["maicoro-phone"]
 ---
 
 ﻿# 05.connected

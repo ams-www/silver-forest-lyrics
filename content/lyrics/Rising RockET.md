@@ -1,5 +1,6 @@
 ---
 title: "Rising RockET"
+tags: ["奏瀬いちこ"]
 ---
 
 ﻿# 01.Rising RockET

@@ -1,5 +1,6 @@
 ---
 title: "Lunatic Phase"
+tags: ["奏瀬いちこ"]
 ---
 
 ﻿# 01.Lunatic Phase

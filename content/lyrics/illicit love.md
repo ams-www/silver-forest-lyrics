@@ -1,5 +1,6 @@
 ---
 title: "illicit love"
+tags: ["maicoro-phone"]
 ---
 
 ﻿# 07.illicit love

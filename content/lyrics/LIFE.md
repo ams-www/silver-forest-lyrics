@@ -1,5 +1,6 @@
 ---
 title: "LIFE"
+tags: ["maicoro-phone"]
 ---
 
 ﻿# 05.LIFE

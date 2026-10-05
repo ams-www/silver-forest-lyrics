@@ -1,3 +1,8 @@
+---
+title: "second star"
+tags: ["maicoro-phone"]
+---
+
 ﻿# 04.second star
 
 

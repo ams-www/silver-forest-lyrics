@@ -1,5 +1,6 @@
 ---
 title: "around will"
+tags: ["maicoro-phone"]
 ---
 
 ﻿# 08.around will

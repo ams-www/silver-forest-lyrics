@@ -1,5 +1,6 @@
 ---
 title: "Faith choir"
+tags: ["奏瀬いちこ"]
 ---
 
 ﻿# 02.Faith choir
