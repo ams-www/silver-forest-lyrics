@@ -1,5 +1,6 @@
 ---
 title: "silent moon…"
+tags: ["なつみ", "NYO"]
 ---
 
 ﻿# 06.silent moon…

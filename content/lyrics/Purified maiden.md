@@ -1,6 +1,6 @@
 ---
 title: "Purified maiden"
-tags: ["奏瀬いちこ"]
+tags: ["奏瀬いちこ", "NYO"]
 ---
 
 ﻿# 03.Purified maiden

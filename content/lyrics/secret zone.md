@@ -1,5 +1,6 @@
 ---
 title: "secret zone"
+tags: ["なつみ"]
 ---
 
 ﻿# 08.secret zone

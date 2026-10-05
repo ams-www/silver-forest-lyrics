@@ -1,5 +1,6 @@
 ---
 title: "believe my soul -SE"
+tags: ["さゆり", "なつみ", "NYO"]
 ---
 
 ﻿# 09.believe my soul -SE

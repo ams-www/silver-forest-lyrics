@@ -1,5 +1,6 @@
 ---
 title: "distorted speedway"
+tags: ["NYO"]
 ---
 
 ﻿# 03.distorted speedway

@@ -1,5 +1,6 @@
 ---
 title: "幻想ノスタルジア ～ under the illusion"
+tags: ["さゆり", "NYO"]
 ---
 
 ﻿# 02.幻想ノスタルジア ～ under the illusion

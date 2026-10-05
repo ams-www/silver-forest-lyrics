@@ -1,5 +1,6 @@
 ---
 title: "Slave to the Drivin'"
+tags: ["NYO"]
 ---
 
 ﻿# 01.Slave to the Drivin'

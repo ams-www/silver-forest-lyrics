@@ -1,5 +1,6 @@
 ---
 title: "Being"
+tags: ["NYO"]
 ---
 
 ﻿# 06.Being

@@ -1,5 +1,6 @@
 ---
 title: "Sacred"
+tags: ["NYO"]
 ---
 
 ﻿# 01.Sacred

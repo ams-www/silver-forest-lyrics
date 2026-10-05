@@ -1,5 +1,6 @@
 ---
 title: "Keep the Faith"
+tags: ["さゆり", "NYO"]
 ---
 
 ﻿# 05.Keep the Faith

@@ -1,5 +1,6 @@
 ---
 title: "fair wind"
+tags: ["さゆり", "NYO"]
 ---
 
 ﻿# 06.fair wind

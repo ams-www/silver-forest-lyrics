@@ -1,5 +1,6 @@
 ---
 title: "Light of Hope"
+tags: ["さゆり"]
 ---
 
 ﻿# 05.Light of Hope

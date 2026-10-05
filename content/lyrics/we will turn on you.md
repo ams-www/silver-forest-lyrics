@@ -1,5 +1,6 @@
 ---
 title: "we will turn on you"
+tags: ["さゆり", "NYO"]
 ---
 
 ﻿# 04.we will turn on you

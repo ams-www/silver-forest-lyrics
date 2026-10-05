@@ -1,5 +1,6 @@
 ---
 title: "Someday I'll be there"
+tags: ["さゆり", "NYO"]
 ---
 
 ﻿# 02.Someday I'll be there

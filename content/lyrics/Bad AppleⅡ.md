@@ -1,5 +1,6 @@
 ---
 title: "Bad AppleⅡ"
+tags: ["さゆり", "NYO"]
 ---
 
 ﻿# 03.Bad AppleⅡ

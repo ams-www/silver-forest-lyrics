@@ -1,5 +1,6 @@
 ---
 title: "Life slider"
+tags: ["さゆり", "NYO"]
 ---
 
 ﻿# 03.Life slider

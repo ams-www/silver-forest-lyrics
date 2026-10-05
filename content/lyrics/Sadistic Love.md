@@ -1,5 +1,6 @@
 ---
 title: "Sadistic Love"
+tags: ["さゆり", "NYO"]
 ---
 
 ﻿# 02.Sadistic Love

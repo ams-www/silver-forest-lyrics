@@ -1,6 +1,6 @@
 ---
 title: "Phantasm Brigade+"
-tags: ["奏瀬いちこ"]
+tags: ["奏瀬いちこ", "NYO"]
 ---
 
 ﻿# 02.Phantasm Brigade+

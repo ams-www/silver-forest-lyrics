@@ -1,5 +1,6 @@
 ---
 title: "Forcast Function"
+tags: ["さゆり"]
 ---
 
 ﻿# 04.Forcast Function

@@ -1,5 +1,6 @@
 ---
 title: "DISC2-09.someday"
+tags: ["さゆり"]
 ---
 
 ﻿# DISC2-09.someday

@@ -1,6 +1,6 @@
 ---
 title: "Sweet little Lily"
-tags: ["奏瀬いちこ"]
+tags: ["奏瀬いちこ", "NYO"]
 ---
 
 ﻿# 01.Sweet little Lily

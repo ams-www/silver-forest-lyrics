@@ -1,5 +1,6 @@
 ---
 title: "drive to the ever sky"
+tags: ["さゆり", "NYO"]
 ---
 
 ﻿# 05.drive to the ever sky

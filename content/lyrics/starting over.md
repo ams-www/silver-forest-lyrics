@@ -1,5 +1,6 @@
 ---
 title: "starting over"
+tags: ["さゆり", "NYO"]
 ---
 
 ﻿# 02.starting over

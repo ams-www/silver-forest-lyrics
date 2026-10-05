@@ -1,5 +1,6 @@
 ---
 title: "providing the atmosphere"
+tags: ["なつみ"]
 ---
 
 ﻿# 04.providing the atmosphere

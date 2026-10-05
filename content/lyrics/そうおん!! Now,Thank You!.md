@@ -1,5 +1,6 @@
 ---
 title: "そうおん!! Now,Thank You!"
+tags: ["なつみ"]
 ---
 
 ﻿# 03.そうおん!! Now,Thank You!

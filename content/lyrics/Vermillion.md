@@ -1,5 +1,6 @@
 ---
 title: "Vermillion"
+tags: ["NYO"]
 ---
 
 ﻿# 04.Vermillion

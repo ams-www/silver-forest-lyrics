@@ -1,5 +1,6 @@
 ---
 title: "Vivid Vermilion"
+tags: ["NYO"]
 ---
 
 ﻿# 05.Vivid Vermilion

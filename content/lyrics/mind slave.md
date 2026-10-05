@@ -1,5 +1,6 @@
 ---
 title: "mind slave"
+tags: ["さゆり", "なつみ"]
 ---
 
 ﻿# 04.mind slave

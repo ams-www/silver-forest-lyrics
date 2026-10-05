@@ -1,5 +1,6 @@
 ---
 title: "60's wind - stars"
+tags: ["さゆり", "NYO"]
 ---
 
 ﻿# 02.60's wind - stars

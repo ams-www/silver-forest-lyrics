@@ -1,5 +1,6 @@
 ---
 title: "Vinculum　～ 絆 ～ 生ドラムver"
+tags: ["さゆり"]
 ---
 
 ﻿# 10.Vinculum　～ 絆 ～ 生ドラムver

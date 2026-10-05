@@ -1,5 +1,6 @@
 ---
 title: "Burning Force"
+tags: ["NYO"]
 ---
 
 ﻿# 08.Burning Force

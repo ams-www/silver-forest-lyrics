@@ -1,5 +1,6 @@
 ---
 title: "stay gold"
+tags: ["NYO"]
 ---
 
 ﻿# 08.stay gold

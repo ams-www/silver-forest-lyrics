@@ -1,5 +1,6 @@
 ---
 title: "Lunatic EURO"
+tags: ["NYO"]
 ---
 
 ﻿# 02.Lunatic EURO

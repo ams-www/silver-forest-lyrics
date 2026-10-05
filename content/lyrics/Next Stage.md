@@ -1,5 +1,6 @@
 ---
 title: "Next Stage"
+tags: ["さゆり"]
 ---
 
 ﻿# 05.Next Stage

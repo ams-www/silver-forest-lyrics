@@ -1,5 +1,6 @@
 ---
 title: "Direction still unknown"
+tags: ["NYO"]
 ---
 
 ﻿# 04.Direction still unknown

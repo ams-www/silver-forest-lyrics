@@ -1,5 +1,6 @@
 ---
 title: "春風 8bit mix 8bit mix"
+tags: ["NYO"]
 ---
 
 ﻿# 07.春風 8bit mix 8bit mix

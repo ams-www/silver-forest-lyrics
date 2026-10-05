@@ -1,5 +1,6 @@
 ---
 title: "Forcast Function (KaNa Foresight Dreams Remix)"
+tags: ["さゆり"]
 ---
 
 ﻿# 05.Forcast Function (KaNa Foresight Dreams Remix)

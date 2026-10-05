@@ -1,5 +1,6 @@
 ---
 title: "Brave your dream"
+tags: ["さゆり", "NYO"]
 ---
 
 ﻿# 01.Brave your dream

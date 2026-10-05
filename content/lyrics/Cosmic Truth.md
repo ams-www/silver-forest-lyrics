@@ -1,5 +1,6 @@
 ---
 title: "Cosmic Truth"
+tags: ["さゆり", "NYO"]
 ---
 
 ﻿# 09.Cosmic Truth

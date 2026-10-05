@@ -1,5 +1,6 @@
 ---
 title: "sweetest one"
+tags: ["なつみ", "NYO"]
 ---
 
 ﻿# 05.sweetest one

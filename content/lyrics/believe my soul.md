@@ -1,5 +1,6 @@
 ---
 title: "believe my soul"
+tags: ["なつみ", "NYO"]
 ---
 
 ﻿# 01.believe my soul

@@ -1,5 +1,6 @@
 ---
 title: "Starry Sky"
+tags: ["さゆり", "NYO"]
 ---
 
 ﻿# 02.Starry Sky

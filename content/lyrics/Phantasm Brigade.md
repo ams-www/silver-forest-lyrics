@@ -1,5 +1,6 @@
 ---
 title: "Phantasm Brigade"
+tags: ["さゆり", "NYO"]
 ---
 
 ﻿# 02.Phantasm Brigade

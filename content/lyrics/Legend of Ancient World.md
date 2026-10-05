@@ -1,5 +1,6 @@
 ---
 title: "Legend of Ancient World"
+tags: ["NYO"]
 ---
 
 ﻿# 04.Legend of Ancient World

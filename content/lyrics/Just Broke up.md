@@ -1,5 +1,6 @@
 ---
 title: "Just Broke up"
+tags: ["NYO"]
 ---
 
 ﻿# 02.Just Broke up
