@@ -9,3 +9,6 @@ title = "SilForeFans"
   home = ["HTML"]
   page = ["HTML"]
   section = ["HTML"]
+
+[taxonomies]
+  tag = "tags"
